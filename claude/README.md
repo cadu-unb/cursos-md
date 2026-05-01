@@ -25,13 +25,13 @@ Nesta etapa inicial, configuramos o Gemini no modo de **raciocínio** (plano gra
 
 Com esse contexto, solicitamos um prompt-base para orientar a criação do curso. O conteúdo utilizado foi:
 
-![[passos/prompt-1]]
+[prompt-1](passos/prompt-1)
 
 ### Retorno Gemini 1
 
 A partir do prompt acima, o Gemini retornou a versão que serviu como ponto de partida para a etapa seguinte:
 
-![[return-1]]
+[prompt-1](passos/return-1)
 
 ## Passo 2 — Construir a Versão 1.0
 
@@ -66,13 +66,13 @@ Após concluir o [curso versão 1.0](#retorno-chatgpt-1), voltamos ao Gemini par
 
 O prompt abaixo foi usado para estruturar critérios mais claros de auditoria pedagógica e técnica:
 
-![[passos/prompt-2]]
+[prompt-2](passos/prompt-2)
 
 ### Retorno Gemini 2
 
 Como saída, recebemos o prompt que orientou a fase de análise:
 
-![[return-2]]
+[return-2](passos/return-2)
 
 ## Passo 4 — Executar a Análise dos Resultados
 
@@ -99,15 +99,15 @@ Com a análise crítica pronta, retornamos ao Gemini para criar um novo prompt d
 
 ### Prompt Gemini 3
 
-O prompt abaixo foi elaborado para transformar os achados críticos em ações de revisão objetiva:
+O prompt abaixo foi elaborado para transformar os pontos críticos em ações de revisão objetiva:
 
-![[passos/prompt-3]]
+[prompt-3](passos/prompt-3)
 
 ### Retorno Gemini 3
 
 A versão devolvida pelo Gemini, que passou a orientar o refinamento do curso, foi:
 
-![[return-4-0]]
+[return-3](passos/return-3)
 
 ## Passo 6 — Aprimorar a Versão 1.0
 
@@ -129,13 +129,13 @@ Com o roteiro reformulado, passamos a estimar a carga horária do curso de forma
 
 Diferentemente da primeira avaliação, aqui usamos duas aulas de amostragem para identificar padrões de estrutura e, com base neles, modelar uma metodologia de cálculo.
 
-![[prompt-4]]
+[prompt-4](passos/prompt-4)
 
 ### Retorno Gemini 4
 
 O prompt resultante dessa etapa foi:
 
-![[return-4-0]]
+[return-4](passos/return-4-0)
 
 ## Passo 8 — Construir o Método de Carga Horária
 
@@ -159,13 +159,13 @@ Com a tabela de referência estabelecida, voltamos ao Gemini para estruturar o p
 
 Nesta iteração, enviamos ao Gemini apenas a tabela de tipos de elementos, suas descrições, tempos médios e justificativas pedagógicas. O prompt utilizado foi:
 
-![[prompt-5]]
+[prompt-5](passos/prompt-5)
 
 ### Retorno Gemini 5
 
 A saída gerada para orientar a avaliação final foi:
 
-![[return-5]]
+[return-5](passos/return-5)
 
 ## Passo 10 — Avaliar a Carga Horária do Curso
 
