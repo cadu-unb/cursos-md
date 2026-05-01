@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@page {
+  size: A4;
+  margin: 1cm 0cm 1cm 0cm;
+  background-color: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0;
+}
+
+/* Em vez de * { background-color: #000 }, use: */
+html, body {
+    background-color: #ffffff;
+}
+
+/* Remove o fundo de todos os componentes do MathJax e KaTeX */
+.MathJax, .MathJax *, .katex, .katex * {
+    background-color: transparent !important;
+}
+
+/* Garante que o container da fórmula não tenha fundo que sobreponha o texto */
+.MathJax_Display, .katex-display {
+    background-color: transparent !important;
+}
+
+/* 1. Restaura as linhas dos títulos (H1 e H2) */
+h1, h2 {
+    border-bottom: 1px solid #000000 !important;
+    padding-bottom: 0.3em;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+/* 2. Restaura a linha horizontal (---) */
+hr {
+    height: 0.25em;
+    padding: 0;
+    margin: 24px 0;
+    background-color: #000000 !important;
+    border: 0;
+}
+
+code {
+    margin-top: .5cm;
+}
+
+/* 3. Ajuste para Blocos de Código (Opcional, mas recomendado) */
+code, pre {
+    border: 1px solid rgb(100, 100, 100); /* Um cinza discreto para destacar do fundo */
+    background-color: rgb(225, 225, 225) !important; /* Um cinza quase preto para o bloco de código */
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    
+}
+
+/* 4. Tabelas (Essencial para matrizes e dados do LSD) */
+table, th, td {
+    border: 1px solid #000000 !important;
+    border-collapse: collapse;
+    padding: 6px 13px;
+}
