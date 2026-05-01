@@ -141,7 +141,7 @@ O prompt abaixo foi elaborado para transformar os achados críticos em ações d
 
 A versão devolvida pelo Gemini, que passou a orientar o refinamento do curso, foi:
 
-![[return-4-0]]
+![[return-3]]
 
 ### 🚩 Marco de Desenvolvimento: Plano de Reformulação Definido
 > **O que validar agora:**
