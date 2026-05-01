@@ -44,20 +44,42 @@ hr {
     border: 0;
 }
 
+/* 3. Código inline */
 code {
-    margin-top: .5cm;
+    border: 1px solid rgb(140, 140, 140);
+    background-color: rgb(235, 235, 235) !important;
+    padding: 0.12em 0.35em;
+    border-radius: 4px;
+    white-space: break-spaces;
 }
 
-/* 3. Ajuste para Blocos de Código (Opcional, mas recomendado) */
-code, pre {
-    border: 1px solid rgb(100, 100, 100); /* Um cinza discreto para destacar do fundo */
-    background-color: rgb(225, 225, 225) !important; /* Um cinza quase preto para o bloco de código */
-    padding: 0.2em 0.4em;
+/* 4. Blocos de código */
+pre {
+    border: 1px solid rgb(100, 100, 100);
+    background-color: rgb(225, 225, 225) !important;
+    padding: 0.6em 0.8em;
     border-radius: 6px;
-    
+    margin: 0.5em 0 1em 0;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow: visible;
+    white-space: pre-wrap;     /* Permite quebrar linhas longas */
+    overflow-wrap: anywhere;   /* Evita corte de comandos sem espaço */
+    word-break: break-word;
+    page-break-inside: avoid;
 }
 
-/* 4. Tabelas (Essencial para matrizes e dados do LSD) */
+pre code {
+    border: 0;
+    background: transparent !important;
+    padding: 0;
+    border-radius: 0;
+    white-space: inherit;
+    overflow-wrap: inherit;
+    word-break: inherit;
+}
+
+/* 5. Tabelas (Essencial para matrizes e dados do LSD) */
 table, th, td {
     border: 1px solid #000000 !important;
     border-collapse: collapse;

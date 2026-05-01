@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Claude Code on Desktop: Get Started with the Desktop App
 ## Roteiro Completo de Curso Reformulado
