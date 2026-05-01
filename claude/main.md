@@ -35,6 +35,14 @@ A partir do prompt acima, o Gemini retornou a versão que serviu como ponto de p
 
 ![[return-1]]
 
+### 🚩 Marco de Desenvolvimento: Prompt-Base Validado
+> **O que validar agora:**
+> - [ ] Você leu `![[return-1]]` e conseguiu identificar claramente: papel, objetivo, estrutura e estilo de escrita.
+> - [ ] Você confirma que o retorno já está pronto para copiar e reutilizar como prompt de geração de curso.
+> 
+> **Sinal Verde:** Se você consegue reutilizar esse prompt sem reescrever instruções centrais, pode avançar.
+> **Sinal Vermelho:** Se o prompt ainda estiver ambíguo ou incompleto, revise o passo `![[passos/prompt-1]]`.
+
 ## Passo 2 — Construir a Versão 1.0
 
 Com o retorno do passo anterior em mãos, avançamos para a primeira versão do curso.
@@ -60,6 +68,14 @@ O arquivo completo está disponível em [curso-v1-gpt.md](passos/curso-v1-gpt.md
 
 > [^1] Referência: [Markdown Guide](https://www.markdownguide.org)
 
+### 🚩 Marco de Desenvolvimento: Versão 1.0 Consolidada
+> **O que validar agora:**
+> - [ ] Você gerou/obteve o arquivo [curso-v1-gpt.md](passos/curso-v1-gpt.md) e ele abre sem trechos truncados.
+> - [ ] Você verificou que a estrutura inclui aulas e seções auxiliares, sem lacunas visíveis entre capítulos.
+> 
+> **Sinal Verde:** Se você consegue ler a versão 1.0 do início ao fim com continuidade, pode avançar para a auditoria.
+> **Sinal Vermelho:** Se houver módulos faltando ou quebra de formatação, revise o passo `![[return-1]]`.
+
 ## Passo 3 — Gerar Instruções para Análise Crítica
 
 Após concluir o [curso versão 1.0](#retorno-chatgpt-1), voltamos ao Gemini para criar um prompt de avaliação crítica do material.
@@ -75,6 +91,14 @@ O prompt abaixo foi usado para estruturar critérios mais claros de auditoria pe
 Como saída, recebemos o prompt que orientou a fase de análise:
 
 ![[return-2]]
+
+### 🚩 Marco de Desenvolvimento: Prompt de Auditoria Aprovado
+> **O que validar agora:**
+> - [ ] Você confirmou que `![[return-2]]` pede análise de clareza, rigor técnico, engajamento e potencial de uso.
+> - [ ] Você conferiu que o formato de saída exige relatório estruturado (sumário, gargalos, soluções e roadmap).
+> 
+> **Sinal Verde:** Se você consegue executar uma auditoria completa usando apenas esse prompt, pode avançar.
+> **Sinal Vermelho:** Se o prompt estiver genérico e não orientar decisão, revise o passo `![[passos/prompt-2]]`.
 
 ## Passo 4 — Executar a Análise dos Resultados
 
@@ -95,6 +119,14 @@ Com base no [prompt do passo 3](#retorno-gemini-2), foi gerado o arquivo [ANALIS
 
 Esse relatório contém 483 linhas, com introdução analítica e 7 capítulos cobrindo pontos fortes e pontos de melhoria do [curso versão 1.0](#retorno-chatgpt-1).
 
+### 🚩 Marco de Desenvolvimento: Diagnóstico Crítico Concluído
+> **O que validar agora:**
+> - [ ] Você obteve o arquivo [ANALISE_CRITICA_CLAUDE_DESKTOP.md](passos/ANALISE_CRITICA_CLAUDE_DESKTOP.md) com pontos fortes, gargalos e correções práticas.
+> - [ ] Você consegue apontar, no relatório, quais riscos são críticos para iniciantes (instalação, segurança e fluxo).
+> 
+> **Sinal Verde:** Se você já consegue transformar os achados em ações objetivas de melhoria, pode avançar.
+> **Sinal Vermelho:** Se o relatório estiver opinativo e sem plano de ação, revise o passo `![[return-2]]`.
+
 ## Passo 5 — Gerar Instruções para Aprimorar a Versão 1.0
 
 Com a análise crítica pronta, retornamos ao Gemini para criar um novo prompt de melhoria incremental do curso.
@@ -111,6 +143,14 @@ A versão devolvida pelo Gemini, que passou a orientar o refinamento do curso, f
 
 ![[return-4-0]]
 
+### 🚩 Marco de Desenvolvimento: Plano de Reformulação Definido
+> **O que validar agora:**
+> - [ ] Você confirmou que o prompt de reformulação exige objetivos e habilidades por aula.
+> - [ ] Você verificou que o prompt inclui correções dos gargalos críticos identificados na análise.
+> 
+> **Sinal Verde:** Se você consegue usar esse prompt para reescrever o curso com direção clara, pode avançar.
+> **Sinal Vermelho:** Se o prompt não conectar análise e correção, revise o passo `![[passos/prompt-3]]`.
+
 ## Passo 6 — Aprimorar a Versão 1.0
 
 Com o conjunto de instruções definido no [passo anterior](#retorno-gemini-3), iniciamos a etapa de reescrita.
@@ -122,6 +162,14 @@ Retornamos ao mesmo contexto de chat no Claude (onde já havia sido gerada a an�
 ### Retorno Claude 2
 
 Como resultado do [prompt-3](#retorno-gemini-3), foi produzido o arquivo [novo-roteiro-curso.md](passos/novo-roteiro-curso.md), com a proposta de curso revisada.
+
+### 🚩 Marco de Desenvolvimento: Roteiro 2.0 Entregue
+> **O que validar agora:**
+> - [ ] Você gerou o arquivo [novo-roteiro-curso.md](passos/novo-roteiro-curso.md) com conteúdo completo e sem quebras.
+> - [ ] Você verificou que as aulas ficaram mais acionáveis para iniciantes (objetivos, habilidades e prática).
+> 
+> **Sinal Verde:** Se você percebe ganho real de clareza e aplicabilidade em relação à versão 1.0, pode avançar.
+> **Sinal Vermelho:** Se os problemas críticos persistirem, revise o passo `![[return-4-0]]`.
 
 ## Passo 7 — Gerar Instruções para Definir o Método de Carga Horária
 
@@ -139,6 +187,14 @@ O prompt resultante dessa etapa foi:
 
 ![[return-4-0]]
 
+### 🚩 Marco de Desenvolvimento: Método MET Estruturado
+> **O que validar agora:**
+> - [ ] Você confirma que o método separa atividades por tipo (teoria, prática, setup, feedback etc.).
+> - [ ] Você consegue aplicar a métrica para comparar aulas diferentes sem mudar os critérios.
+> 
+> **Sinal Verde:** Se a MET está estável e replicável, pode avançar.
+> **Sinal Vermelho:** Se os critérios ainda estiverem subjetivos, revise o passo `![[prompt-4]]`.
+
 ## Passo 8 — Construir o Método de Carga Horária
 
 Na sequência, submetemos o [prompt-4](#retorno-gemini-4) em um novo chat do ChatGPT. No envio, anexamos duas aulas de referência (módulos 1 e 14), reunidas no arquivo [anexos-2-aulas-amostragem.md](passos/anexos-2-aulas-amostragem.md).
@@ -152,6 +208,14 @@ O ChatGPT retornou o arquivo [return-4-5.md](passos/return-4-5.md), do qual foi 
   ![[tabela-tempo-atividade]]
 
 </div>
+
+### 🚩 Marco de Desenvolvimento: Tabela de Referência Validada
+> **O que validar agora:**
+> - [ ] Você conferiu que `![[tabela-tempo-atividade]]` está completa: tipo, descrição, tempo e justificativa.
+> - [ ] Você consegue mapear qualquer atividade da aula para um tipo da tabela sem criar categorias novas.
+> 
+> **Sinal Verde:** Se a tabela funciona como base única de estimativa, pode avançar.
+> **Sinal Vermelho:** Se faltarem categorias essenciais, revise o passo `![[return-4-5]]`.
 
 ## Passo 9 — Gerar Instruções para Avaliar a Carga Horária do Curso
 
@@ -169,6 +233,14 @@ A saída gerada para orientar a avaliação final foi:
 
 ![[return-5]]
 
+### 🚩 Marco de Desenvolvimento: Prompt Final de Carga Horária Homologado
+> **O que validar agora:**
+> - [ ] Você confirmou que `![[return-5]]` pede cálculo por aula + total do curso com método explícito.
+> - [ ] Você verificou que o prompt exige análise de equilíbrio entre teoria e prática.
+> 
+> **Sinal Verde:** Se você consegue auditar o resultado final com esse prompt, pode avançar.
+> **Sinal Vermelho:** Se os critérios de medição estiverem incompletos, revise o passo `![[prompt-5]]`.
+
 ## Passo 10 — Avaliar a Carga Horária do Curso
 
 Por fim, enviamos o [prompt-5](#retorno-gemini-5) ao Claude, junto da [tabela-tempo-atividade.md](passos/tabela-tempo-atividade), no mesmo chat utilizado para consolidar este relato procedimental.
@@ -176,3 +248,11 @@ Por fim, enviamos o [prompt-5](#retorno-gemini-5) ao Claude, junto da [tabela-te
 ### Retorno Claude 3
 
 Com base nesses insumos, o Claude retornou o arquivo [carga-horaria.md](passos/carga-horaria.md), contendo a análise de duração por aula e a estimativa total da carga horária do curso.
+
+### 🚩 Marco de Desenvolvimento: Carga Horária Fechada
+> **O que validar agora:**
+> - [ ] Você obteve [carga-horaria.md](passos/carga-horaria.md) com tempo por aula, total e lógica de cálculo verificável.
+> - [ ] Você consegue identificar, no documento, se a proporção teoria/prática está adequada para iniciantes.
+> 
+> **Sinal Verde:** Se os números estão rastreáveis e as recomendações finais estão claras, o processo foi replicado com sucesso.
+> **Sinal Vermelho:** Se você não conseguir reproduzir os cálculos por aula, revise o passo `![[return-5]]`.
