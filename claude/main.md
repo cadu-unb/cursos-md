@@ -1,20 +1,22 @@
-# Procedimentos Executados para Construir o Curso do Claude
+<link rel="stylesheet" href="css/style.css">
+
+# Procedimentos Executados para construir o Curso do Claude
 
 ## O que vamos fazer?
 
-Criar um curso sobre a ferramenta [Claude](https://www.claude.ai), em especial, sobre a ferramenta de Desktop que possui três módulo: "ChatBox", "Coworks" e "Code".
+Neste documento, registramos o processo de construção de um curso sobre a ferramenta [Claude](https://www.claude.ai), com foco na experiência Desktop e em seus três módulos principais: "ChatBox", "Coworks" e "Code".
 
-Acesso no [link](https://claude.com/download).
+O download do Claude Desktop está disponível neste [link](https://claude.com/download).
 
 ## Abordagem
 
-Utilizando a abordagem "For Dummies" solicitamos ao Gemini um promp base para isso:
+Para estruturar o curso com progressão pedagógica, adotamos uma abordagem iterativa entre diferentes IAs. Em cada etapa, usamos um prompt de refinamento, analisamos o retorno e evoluímos para o próximo passo com base no resultado anterior.
 
-## Passo 1 — Definir contornos
+## Passo 1 — Definir Contornos
 
 ### Gemini
 
-Configure o modelo para **"racioncícinio"**, utilizando o plano gratuito da ferramenta, como mostrado abaixo:
+Nesta etapa inicial, configuramos o Gemini no modo de **raciocínio** (plano gratuito), conforme a ilustração abaixo.
 
 <div align="center">
   <img src="imagens/print-gemini-1.png" width="500px">
@@ -23,25 +25,27 @@ Configure o modelo para **"racioncícinio"**, utilizando o plano gratuito da fer
 
 ### Prompt Gemini 1
 
-Utilizando o prompt abaixo, chegamos a um novo prompt, melhor estruturado e com parâmetro mais claros para o resultado inicial do curso alcançar um resultado melhor.
+Com esse contexto, solicitamos um prompt-base para orientar a criação do curso. O conteúdo utilizado foi:
 
 ![[passos/prompt-1]]
 
 ### Retorno Gemini 1
 
-O prompt retornado:
+A partir do prompt acima, o Gemini retornou a versão que serviu como ponto de partida para a etapa seguinte:
 
 ![[return-1]]
 
-## Passo 2 — Versão 1
+## Passo 2 — Construir a Versão 1.0
 
-O prompt retornado na fase anterior depende de um contexto, no caso, um artigo fornecido pela própria claude com título "Claude Code on desktop: 'Get started with the desktop app'" disponível em [link](https://code-claude-com.translate.goog/docs/en/desktop-quickstart?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true), acessado 1 de maio de 2026. 
+Com o retorno do passo anterior em mãos, avançamos para a primeira versão do curso.
 
-> Para fins de acesso local, vide o arquivo [anexo-1.md](anexo-1.md).
+Essa execução dependia de um contexto técnico adicional: o artigo oficial da própria Claude, intitulado *"Claude Code on desktop: 'Get started with the desktop app'"*, disponível neste [link](https://code-claude-com.translate.goog/docs/en/desktop-quickstart?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true), acessado em **1 de maio de 2026**.
+
+> Para acesso local, consulte o arquivo [anexo-1.md](anexo-1.md).
 
 ### Prompt ChatGPT 1
 
-De posse do [prompt-1](#retorno-gemini-1) e anexo, adicionando o artigo ao envio dessa solicitação, utilizaremos a ferramenta ChatGPT, em sua versão paga para termos acesso ao modelo de "raciocínio", conforme ilustração abaixo:
+Combinamos o [retorno do passo 1](#retorno-gemini-1) com o anexo técnico e submetemos esse conjunto ao ChatGPT (plano pago, com acesso ao modelo de raciocínio), conforme a imagem abaixo.
 
 <div align="center">
   <img src="imagens/print-gpt-1.png" width="500px">
@@ -50,29 +54,31 @@ De posse do [prompt-1](#retorno-gemini-1) e anexo, adicionando o artigo ao envio
 
 ### Retorno ChatGPT 1
 
-Ele gerou um total de 20 aulas e mais 5 seções auxiliares ao corpo do curso, como apresentação e encerramento, em um total de 1344 linhas utilizando o formato markdown[^1]. Vide o arquivo com o resultado completo em [curso-v1-gpt.md](passos/curso-v1-gpt.md).
+Como resultado, foi gerado um material com 20 aulas e 5 seções auxiliares (abertura, apoio e encerramento), totalizando 1344 linhas em Markdown[^1].
 
-> [^1] [link](https://www.markdownguide.org)
+O arquivo completo está disponível em [curso-v1-gpt.md](passos/curso-v1-gpt.md).
 
-## Passo 3 — **Instruções** para Análise dos Resultados
+> [^1] Referência: [Markdown Guide](https://www.markdownguide.org)
 
-De posse do [curso versão 1.0](#retorno-chatgpt) solicitamos novamente ao Gemini um prompt para analisar o criticamente o resultado o ChatGPT.
+## Passo 3 — Gerar Instruções para Análise Crítica
+
+Após concluir o [curso versão 1.0](#retorno-chatgpt-1), voltamos ao Gemini para criar um prompt de avaliação crítica do material.
 
 ### Prompt Gemini 2
 
-Utilizando o prompt abaixo, chegamos a um novo prompt, melhor estruturado e com parâmetro mais claros para o favorecer melhores resultados durante a análise crítica do curso gerado.
+O prompt abaixo foi usado para estruturar critérios mais claros de auditoria pedagógica e técnica:
 
 ![[passos/prompt-2]]
 
 ### Retorno Gemini 2
 
-O prompt retornado:
+Como saída, recebemos o prompt que orientou a fase de análise:
 
 ![[return-2]]
 
-## Passo 4 — Análise dos Resultados
+## Passo 4 — Executar a Análise dos Resultados
 
-De posse do grupo de instruções desenvolvido no [tópico anterior](#retorno-gemini-2) e do [curso versão 1.0](#retorno-chatgpt) construído pelo ChatGPT, vamos iniciar o passo 4.
+Com o conjunto de instruções do passo anterior e o [curso versão 1.0](#retorno-chatgpt-1), iniciamos a avaliação crítica.
 
 ### Claude
 
@@ -81,65 +87,65 @@ De posse do grupo de instruções desenvolvido no [tópico anterior](#retorno-ge
   <p style="font-size: 0.8em"> Página inicial </p>
 </div>
 
-Utilizando o próprio Claude, em um plano pago, vamos inserir os dados citados e aguardar o retorno.
+Nesta fase, usamos o Claude (plano pago), enviamos os materiais de entrada e aguardamos a consolidação do relatório.
 
 ### Retorno Claude 1
 
-Conforme solicitado no corpo [prompt-2](#retorno-gemini-2), formulado pelo Gemini, foi compilado o arquivo [ANALISE_CRITICA_CLAUDE_DESKTOP.md](passos/ANALISE_CRITICA_CLAUDE_DESKTOP.md) (ao clicar no nome do arquivo poderá ver o resultado completo).
+Com base no [prompt do passo 3](#retorno-gemini-2), foi gerado o arquivo [ANALISE_CRITICA_CLAUDE_DESKTOP.md](passos/ANALISE_CRITICA_CLAUDE_DESKTOP.md).
 
-Possui um total de 483 linhas com descrição inicial e 7 capítulos abordando elementos positivos e negativos do [curso versão 1.0](#retorno-chatgpt).
+Esse relatório contém 483 linhas, com introdução analítica e 7 capítulos cobrindo pontos fortes e pontos de melhoria do [curso versão 1.0](#retorno-chatgpt-1).
 
-## Passo 5 — "Instruções" para Aprimorar a versão 1.0
+## Passo 5 — Gerar Instruções para Aprimorar a Versão 1.0
 
-De posse do [ANALISE_CRITICA_CLAUDE_DESKTOP.md](passos/ANALISE_CRITICA_CLAUDE_DESKTOP.md) solicitamos, mais uma vez, ao Gemini um prompt, agora, para aperfeiçoar a versão 1.0 do curso utilizando a avaliação realizada pelo Claude.
+Com a análise crítica pronta, retornamos ao Gemini para criar um novo prompt de melhoria incremental do curso.
 
 ### Prompt Gemini 3
 
-Utilizando o prompt abaixo, chegamos a um novo prompt, melhor estruturado e com parâmetro mais claros para ajudar a enriquecer os resultados da versão 1.0 com aspectos analisados durante o passo anterior.
+O prompt abaixo foi elaborado para transformar os achados críticos em ações de revisão objetiva:
 
 ![[passos/prompt-3]]
 
 ### Retorno Gemini 3
 
-O prompt retornado:
+A versão devolvida pelo Gemini, que passou a orientar o refinamento do curso, foi:
 
 ![[return-4-0]]
 
-## Passo 6 — Aprimoramento a versão 1.0
+## Passo 6 — Aprimorar a Versão 1.0
 
-De posse do grupo de instruções desenvolvido no [tópico anterior](#retorno-gemini-3) vamos iniciar o passo 6.
+Com o conjunto de instruções definido no [passo anterior](#retorno-gemini-3), iniciamos a etapa de reescrita.
 
 ### Claude
 
-Retornando a plataforma da ferramenta Claude, dentro do contexto (char que já utilizamos) em que foi criada a [ANALISE_CRITICA_CLAUDE_DESKTOP.md](passos/ANALISE_CRITICA_CLAUDE_DESKTOP.md), vamos enviar o [prompt-3](#retorno-gemini-3).
+Retornamos ao mesmo contexto de chat no Claude (onde já havia sido gerada a análise crítica) e enviamos o [prompt-3](#retorno-gemini-3).
 
 ### Retorno Claude 2
 
-Conforme solicitado no corpo [prompt-3](#retorno-gemini-3), formulado pelo Gemini, foi compilado o arquivo [novo-roteiro-curso.md](passos/novo-roteiro-curso.md) (ao clicar no nome do arquivo poderá ver o resultado completo).
+Como resultado do [prompt-3](#retorno-gemini-3), foi produzido o arquivo [novo-roteiro-curso.md](passos/novo-roteiro-curso.md), com a proposta de curso revisada.
 
-## Passo 7 — "Instruções" para construir Método para avaliar a Carga Horária do curso
+## Passo 7 — Gerar Instruções para Definir o Método de Carga Horária
 
-Neste passo vamos solicitar ao Gemini que nos ajude a avaliar a estrutura e o conteúdo do Curso que acabamos de formular.
+Com o roteiro reformulado, passamos a estimar a carga horária do curso de forma estruturada. Para isso, solicitamos ao Gemini um prompt voltado à criação de uma métrica de tempo por tipo de atividade.
 
 ### Prompt Gemini 4
 
-Note que, diferente da primeira avaliação aqui vamos amostrar aleatóriamente duas aulas do curso gerado para avaliar estruturas e semelhanças e assim elaborar uma metodologia para avaliar a Carga Horária do curso.
+Diferentemente da primeira avaliação, aqui usamos duas aulas de amostragem para identificar padrões de estrutura e, com base neles, modelar uma metodologia de cálculo.
 
 ![[prompt-4]]
 
 ### Retorno Gemini 4
 
-O prompt retornado:
+O prompt resultante dessa etapa foi:
 
 ![[return-4-0]]
 
-## Passo 8 — Método para avaliar a Carga Horária do curso
+## Passo 8 — Construir o Método de Carga Horária
 
-No passo anterior construímos o [prompt-4](#retorno-gemini-4) este foi submetido em um chat novo da ferramenta ChatGPT. Durante o envio desse prompt foram anexadas duas aulas a citar, os módulos 1 e 14, em através do arquivo [anexos-2-aulas-amostragem.md](passos/anexos-2-aulas-amostragem.md) (que o leitor pode conferir no link clicavel).
+Na sequência, submetemos o [prompt-4](#retorno-gemini-4) em um novo chat do ChatGPT. No envio, anexamos duas aulas de referência (módulos 1 e 14), reunidas no arquivo [anexos-2-aulas-amostragem.md](passos/anexos-2-aulas-amostragem.md).
 
 ### Retorno ChatGPT 2
 
-O ChatGPT retornou o arquivo [return-4-5.md](passos/return-4-5.md) (que o leitor pode conferir no link clicavel) do qual foi retirada a tabela abaixo:
+O ChatGPT retornou o arquivo [return-4-5.md](passos/return-4-5.md), do qual foi extraída a tabela-base apresentada a seguir:
 
 <div align="center">
 
@@ -147,26 +153,26 @@ O ChatGPT retornou o arquivo [return-4-5.md](passos/return-4-5.md) (que o leitor
 
 </div>
 
-## Passo 9 — "Instruções" para avaliar a Carga Horária do curso
+## Passo 9 — Gerar Instruções para Avaliar a Carga Horária do Curso
 
-Neste passo vamos solicitar ao Gemini que nos ajude a formular o prompt para solicitar a avaliação do arquivo [novo-roteiro-curso.md](passos/novo-roteiro-curso.md) utilizando como referência a [tabela-tempo-atividade.md](passos/tabela-tempo-atividade).
+Com a tabela de referência estabelecida, voltamos ao Gemini para estruturar o prompt final de avaliação temporal do curso completo.
 
 ### Prompt Gemini 5
 
-Através da iteração entre as IA's retornamos ao gemini apenas com a tabela dos tipos de elementos, sua descrição, tempo médio mínimo esperado e justificativa pedagógica. E solicitamos:
+Nesta iteração, enviamos ao Gemini apenas a tabela de tipos de elementos, suas descrições, tempos médios e justificativas pedagógicas. O prompt utilizado foi:
 
 ![[prompt-5]]
 
 ### Retorno Gemini 5
 
-O prompt retornado:
+A saída gerada para orientar a avaliação final foi:
 
 ![[return-5]]
 
-## Passo 10 — Avaliar a Carga Horária do curso
+## Passo 10 — Avaliar a Carga Horária do Curso
 
-De posse do [prompt-5](#retorno-gemini-5) vamos envia-lo junto com a [tabela-tempo-atividade.md](passos/tabela-tempo-atividade) para o Claude, dentro do mesmo chat que utilizamos para todos os envios desse relato procedimental.
+Por fim, enviamos o [prompt-5](#retorno-gemini-5) ao Claude, junto da [tabela-tempo-atividade.md](passos/tabela-tempo-atividade), no mesmo chat utilizado para consolidar este relato procedimental.
 
-### Retorno Claude 2
+### Retorno Claude 3
 
-Com base nas informações enviadoas o Claude retornou o arquivo [carga-horaria.md](passos/carga-horaria.md) (que o leitor pode conferir no link clicavel).
+Com base nesses insumos, o Claude retornou o arquivo [carga-horaria.md](passos/carga-horaria.md), contendo a análise de duração por aula e a estimativa total da carga horária do curso.
