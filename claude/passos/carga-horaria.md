@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../css/style.css">
+
 # Carga Horária — Claude Code on Desktop: Get Started with the Desktop App
 
 ## Resumo Executivo
