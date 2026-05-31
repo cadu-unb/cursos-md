@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Roteiro de Curso Reformulado
 ## "Use Claude's Chat Search and Memory to Build on Previous Context"

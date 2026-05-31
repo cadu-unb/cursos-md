@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Use Claude for Word — Estruture, Edite e Finalize Documentos Profissionais
 

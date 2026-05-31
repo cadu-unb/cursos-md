@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 # Carga Horária: Platforms and Integrations — Use Claude Code in VS Code
 ## Análise Completa de Duração e Densidade Pedagógica
 

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Platforms and Integrations: Use Claude Code in VS Code
 ## Roteiro Completo — Developer Experience Edition

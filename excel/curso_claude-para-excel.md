@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # Use Claude para Excel
 ## Consultoria Analítica, Fórmulas Complexas e Automação com IA

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 
 # CARGA HORÁRIA DO CURSO
 ## "Comece com Claude Cowork: Trabalho em Conjunto com IA"
