@@ -12,6 +12,10 @@ body {
     margin: 0;
 }
 
+p {
+    text-align: justify;
+}
+
 /* Em vez de * { background-color: #000 }, use: */
 html, body {
     background-color: #ffffff;
