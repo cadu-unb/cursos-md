@@ -14,13 +14,13 @@ no formato de arquivo Markdown (.md), do tipo HANDS-ON: baseado em exercícios,
 experimentação e resolução de problemas reais. O curso integra a trilha "Hands-on".
 
 # OBJETO BASE (preencher)
-- Tema/ferramenta do curso: `curso-claude-ppt.md`
+- Tema/ferramenta do curso: `curso-claude-word.md`
 - Público-alvo: docentes ensino superior iniciantes em IA; analistas administrativos; alunos do ensino superior.
 
 # CONFIGURAÇÃO (ajustar se desejar; caso contrário, manter o padrão)
 - Carga horária: 60 a 120 minutos.
 - Número de oficinas práticas: 4 oficinas + 1 projeto final
-- Material-fonte de referência: `curso-claude-ppt.md`
+- Material-fonte de referência: `curso-claude-word.md`
 
 # TAREFA
 Produza o curso completo (AUTOINSTRUCIONAL) respeitando a ESTRUTURA e o ESTILO definidos a seguir.
@@ -30,7 +30,8 @@ começa com um problema concreto e o aluno aprende RESOLVENDO-O com as próprias
 ## ESTRUTURA OBRIGATÓRIA (nesta ordem)
 
 1. TÍTULO
-   - Formato: "# "Claude no PowerPoint" Para Leigos — Curso Hands-on"
+   - Formato: `# Use Claude for Word: Estruturar, Editar e Finalizar Documentos Profissionais — Curso Hands-on`
+   - SUBTÍTULO sem TRADUÇÃO: "Platforms and Integrations: Use Claude Code in VS Code — Curso Hands-on"
    - Logo abaixo, um subtítulo curto e encorajador (itálico) prometendo que,
      ao final, o aluno terá feito algo de verdade.
 

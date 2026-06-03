@@ -1,12 +1,12 @@
-<link rel="stylesheet" href="../../css/style.css">
+  <link rel="stylesheet" href="../../css/style.css">
 
-# Prompt-Modelo — Geração de Plano de Aula (Trilha Essentials)
+  # Prompt-Modelo — Geração de Plano de Aula (Trilha Essentials)
 
-> **Como usar:** preencha os campos entre colchetes `[ ]` na seção CONFIGURAÇÃO e envie o bloco inteiro ao Claude. O único campo obrigatório é o **OBJETO BASE**; os demais possuem valores-padrão e podem ser deixados como estão.
+  > **Como usar:** preencha os campos entre colchetes `[ ]` na seção CONFIGURAÇÃO e envie o bloco inteiro ao Claude. O único campo obrigatório é o **OBJETO BASE**; os demais possuem valores-padrão e podem ser deixados como estão.
 
----
+  ---
 
-```md
+  ```md
 # CONTEXTO
 Você atuará como designer instrucional. Sua tarefa é produzir um Plano de Aula
 completo, em português, no formato de arquivo Markdown (.md), seguindo
@@ -26,13 +26,13 @@ nem o tratamento em 2ª pessoa característicos daquela coleção: a marca "Para
 Leigos" aqui é a de descomplicar, não a de informalizar.
 
 # OBJETO BASE (preencher)
-- Tema/ferramenta do curso: `curso-claude-ppt.md`
+- Tema/ferramenta do curso: `curso_claude-para-excel.md`
 - Público-alvo: docentes ensino superior iniciantes em IA; analistas administrativos; alunos do ensino superior.
 
 # CONFIGURAÇÃO (ajustar se desejar; caso contrário, manter o padrão)
 - Carga horária: 60 a 120 minutos.
 - Número de módulos de conteúdo: padrão: 4 módulos de conteúdo + 1 de síntese
-- Material-fonte de referência: `curso-claude-ppt.md`
+- Material-fonte de referência: `curso_claude-para-excel.md`
 
 # TAREFA
 Produza o Plano de Aula (AUTOINSTRUCIONAL) completo respeitando a ESTRUTURA e o ESTILO definidos a seguir.
@@ -40,51 +40,52 @@ Produza o Plano de Aula (AUTOINSTRUCIONAL) completo respeitando a ESTRUTURA e o 
 ## ESTRUTURA OBRIGATÓRIA (nesta ordem)
 
 1. TÍTULO
-   - Formato: `# Plano de Aula — Claude no Power Point (Essentials)`
+  - Formato: `# (Plano de Aula) Claude para Excel: Consultoria Analítica, Fórmulas Complexas e Automação — Curso Essentials`
+  - SUBTÍTULO sem TRADUÇÃO: "Claude for Excel: Analytical Consulting, Complex Formulas and Automation — Curso Essentials"
 
 2. SEÇÃO "Identificação"
-   - Uma tabela de duas colunas (Campo | Definição) contendo, no mínimo:
-     Curso, Natureza, Carga horária, Público-alvo, Pré-requisitos, Recursos necessários.
+  - Uma tabela de duas colunas (Campo | Definição) contendo, no mínimo:
+    Curso, Natureza, Carga horária, Público-alvo, Pré-requisitos, Recursos necessários.
 
 3. SUBSEÇÃO "Objetivo Geral"
-   - Um parágrafo único, impessoal, que enuncie a finalidade do curso e o produto
-     final esperado do participante.
+  - Um parágrafo único, impessoal, que enuncie a finalidade do curso e o produto
+    final esperado do participante.
 
 4. SUBSEÇÃO "Competências a Desenvolver"
-   - Frase introdutória ("Concluído o curso, o participante deverá demonstrar
-     capacidade de:") seguida de lista numerada com 4 competências.
+  - Frase introdutória ("Concluído o curso, o participante deverá demonstrar
+    capacidade de:") seguida de lista numerada com 4 competências.
 
 5. SUBSEÇÃO "Estrutura e Sequência dos Módulos"
-   - Um parágrafo curto declarando a progressão cumulativa entre módulos.
-   - Uma tabela: Módulo | Título | Referência (material-fonte) | Tempo.
+  - Um parágrafo curto declarando a progressão cumulativa entre módulos.
+  - Uma tabela: Módulo | Título | Referência (material-fonte) | Tempo.
 
 6. MÓDULOS DE CONTEÚDO (um por bloco, na quantidade definida em CONFIGURAÇÃO)
-   Cada módulo deve conter, nesta ordem:
-   a. Cabeçalho: "# Módulo N — [Título do módulo]"
-   b. Nota de encadeamento (uma única linha, em citação ">"), indicando o
+  Cada módulo deve conter, nesta ordem:
+  a. Cabeçalho: "# Módulo N — [Título do módulo]"
+  b. Nota de encadeamento (uma única linha, em citação ">"), indicando o
       pré-requisito e o deslocamento de foco em relação ao módulo anterior.
       No primeiro módulo, indicar que é o ponto de partida.
-   c. "### Objetivos de Aprendizagem" — frase introdutória ("Ao final deste
+  c. "### Objetivos de Aprendizagem" — frase introdutória ("Ao final deste
       módulo, o participante deverá ser capaz de:") + lista de 3 a 4 objetivos.
-   d. "### Texto Descritivo" — de 3 a 5 parágrafos em prosa corrida, impessoal
+  d. "### Texto Descritivo" — de 3 a 5 parágrafos em prosa corrida, impessoal
       e de registro formal/acadêmico (ver ESTILO).
-   e. "### Exercício Prático" — título da atividade com tempo estimado entre
+  e. "### Exercício Prático" — título da atividade com tempo estimado entre
       parênteses; procedimento em passos numerados OU questão de múltipla escolha;
       e um "Critério de êxito" / "Gabarito" / "Fundamentação" explícito.
-   f. "### Mão na massa" - Um prompt base, editável, para o aluno preencher com 
+  f. "### Mão na massa" - Um prompt base, editável, para o aluno preencher com 
       um assunto de interesse dele.
 
 7. MÓDULO FINAL DE SÍNTESE
-   - Título: "# Módulo [N] — Síntese e Aplicação Integrada"
-   - Mesma estrutura dos demais, com Exercício Prático na forma de ATIVIDADE
-     INTEGRADORA que articule as competências de todos os módulos anteriores,
-     acompanhada de uma tabela de "Critérios de avaliação" (Critério | Atendido?).
+  - Título: "# Módulo [N] — Síntese e Aplicação Integrada"
+  - Mesma estrutura dos demais, com Exercício Prático na forma de ATIVIDADE
+    INTEGRADORA que articule as competências de todos os módulos anteriores,
+    acompanhada de uma tabela de "Critérios de avaliação" (Critério | Atendido?).
 
 8. SEÇÃO "Encerramento"
-   - 2 parágrafos: o primeiro reafirma a finalidade cumprida e recomenda prática
-     regular; o segundo aponta caminhos de aprofundamento.
-   - Encerrar com uma citação ">" iniciada por "**Síntese:**", contendo a frase
-     que resume a filosofia do curso.
+  - 2 parágrafos: o primeiro reafirma a finalidade cumprida e recomenda prática
+    regular; o segundo aponta caminhos de aprofundamento.
+  - Encerrar com uma citação ">" iniciada por "**Síntese:**", contendo a frase
+    que resume a filosofia do curso.
 
 ## ESTILO OBRIGATÓRIO
 
@@ -121,4 +122,4 @@ Produza o Plano de Aula (AUTOINSTRUCIONAL) completo respeitando a ESTRUTURA e o 
 # FORMATO DE SAÍDA
 Um único documento Markdown completo, do título ao encerramento, seguindo
 exatamente a ordem e os elementos descritos em ESTRUTURA OBRIGATÓRIA.
-```
+  ```

@@ -26,13 +26,13 @@ nem o tratamento em 2ª pessoa característicos daquela coleção: a marca "Para
 Leigos" aqui é a de descomplicar, não a de informalizar.
 
 # OBJETO BASE (preencher)
-- Tema/ferramenta do curso: `curso-claude-ppt.md`
+- Tema/ferramenta do curso: `claude-Get_Started.md`
 - Público-alvo: docentes ensino superior iniciantes em IA; analistas administrativos; alunos do ensino superior.
 
 # CONFIGURAÇÃO (ajustar se desejar; caso contrário, manter o padrão)
 - Carga horária: 60 a 120 minutos.
 - Número de módulos de conteúdo: padrão: 4 módulos de conteúdo + 1 de síntese
-- Material-fonte de referência: `curso-claude-ppt.md`
+- Material-fonte de referência: `claude-Get_Started.md`
 
 # TAREFA
 Produza o Plano de Aula (AUTOINSTRUCIONAL) completo respeitando a ESTRUTURA e o ESTILO definidos a seguir.
@@ -40,7 +40,8 @@ Produza o Plano de Aula (AUTOINSTRUCIONAL) completo respeitando a ESTRUTURA e o 
 ## ESTRUTURA OBRIGATÓRIA (nesta ordem)
 
 1. TÍTULO
-   - Formato: `# Plano de Aula — Claude no Power Point (Essentials)`
+   - Formato: `# (Plano de Aula) Claude: Comece a usar o aplicativo para desktop — Curso Essentials`
+   - SUBTÍTULO sem TRADUÇÃO: "Claude: Get Started with the Desktop App — Curso Essentials"
 
 2. SEÇÃO "Identificação"
    - Uma tabela de duas colunas (Campo | Definição) contendo, no mínimo:
