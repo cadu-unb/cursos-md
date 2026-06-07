@@ -16,11 +16,15 @@
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 01 — ABERTURA DO CURSO
 Tipo: Título
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com textura sutil na cor institucional. Título principal em tipografia grande. Subtítulo: "Trilha Essentials — 90 minutos". Ícone de raio ⚡ (símbolo do Claude Code) ao lado do título. Animação: fade-in do título (0,5s), fade-in do subtítulo (0,8s).
 
@@ -35,11 +39,15 @@ Botão "Iniciar" — avança para o Slide 02.
 NAVEGAÇÃO
 Restrita — botão "Próximo" da barra padrão oculto; aluno usa apenas o botão "Iniciar".
 
+
 ────────────────────────────────
+
 SLIDE 02 — VISÃO GERAL DO CURSO E COMPETÊNCIAS
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 5 etapas com ícone distinto: globo/ecossistema (M1), engrenagem (M2), balão de prompt (M3), diff/comparação (M4), bandeira de chegada (M5). Abaixo, quatro blocos de competências surgindo em sequência com delay de 0,3s.
 
@@ -64,11 +72,15 @@ Livre após 12 segundos (botão "Próximo" liberado com timer).
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 03 — ABERTURA DO MÓDULO 1
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de globo/ecossistema, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -82,11 +94,15 @@ Botão "Começar" — avança para Slide 04.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 04 — O QUE É O CLAUDE E COMO ACESSÁ-LO
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões lado a lado, cada um representando um modo de acesso ao Claude:
 1. Interface Web — ícone de navegador: "claude.ai — qualquer navegador"
@@ -105,11 +121,15 @@ Nenhuma — slide expositivo com três cartões.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 05 — A VANTAGEM DO CONTEXTO AUTOMÁTICO
 Tipo: Conteúdo com analogia
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Dois cenários animados lado a lado:
 Esquerda — "Interface Web": ícone de pessoa colando texto manualmente + balão de fala: "Preciso copiar e colar o código a cada pergunta."
@@ -128,11 +148,15 @@ Nenhuma — slide expositivo com contraste visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 06 — TABELA COMPARATIVA: TRÊS MODOS DE ACESSO
 Tipo: Conteúdo de referência
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Tabela comparativa com 4 linhas de aspecto e 3 colunas de modo (Interface Web, Extensão VS Code, CLI). Cada célula com ícone de ✅ ou ❌ ou texto curto. Linha da extensão VS Code destacada com borda colorida. Abaixo: legenda resumida — quando usar cada modo.
 Animação: tabela surge com fade-in; linha da extensão destaca com pulse após 0,5s.
@@ -148,11 +172,15 @@ Nenhuma — slide de referência.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 07 — MODELO DE SEGURANÇA: O QUE SAI E O QUE FICA
 Tipo: Conteúdo interativo (dois painéis clicáveis)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama central: ícone de computador do usuário ↔ seta bidirecional ↔ ícone de nuvem (servidores Anthropic).
 Dois painéis clicáveis abaixo do diagrama:
@@ -183,11 +211,15 @@ Ambos os painéis devem ser clicados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nos dois painéis.
 
+
 ────────────────────────────────
+
 SLIDE 08 — O QUE JAMAIS DEVE SER ENVIADO AO ASSISTENTE
 Tipo: Conteúdo de alerta
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Ícone de escudo com X vermelho. Lista em dois blocos:
 Bloco "Nunca enviar" (fundo vermelho claro): senhas e tokens de autenticação, chaves de API de terceiros, números de documentos pessoais (CPF, RG), dados financeiros, informações cobertas por LGPD/GDPR.
@@ -207,11 +239,15 @@ Nenhuma — slide de alerta.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 09 — EXERCÍCIO: CLASSIFICAÇÃO DE DADOS
 Tipo: Questão de classificação interativa (drag-and-drop)
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Seis cartões arrastáveis com os itens do exercício. Três zonas de destino: "✅ Seguro", "⚠️ Atenção", "❌ Nunca enviar". Layout limpo com instruções no topo. Barra de progresso: "Exercício 1 de 5".
 
@@ -237,11 +273,15 @@ Feedback após 2ª tentativa: exibe gabarito completo com justificativa por item
 NAVEGAÇÃO
 Restrita — avanço liberado após submissão (independente de acerto total).
 
+
 ────────────────────────────────
+
 SLIDE 10 — CHECKLIST DE CONCLUSÃO DO MÓDULO 1
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Diferença entre os três modos de acesso ao Claude compreendida
@@ -266,11 +306,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 11 — ABERTURA DO MÓDULO 2
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de engrenagem, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -284,11 +328,15 @@ Botão "Começar" — avança para Slide 12.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 12 — VERIFICAÇÃO DO AMBIENTE: PRÉ-REQUISITOS
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Lista de verificação em dois blocos:
 Bloco 1 — "Verificar versão do VS Code": instrução com caminho Help → About (Windows/Linux) ou Code → About (macOS). Print ilustrativo da janela de informações com versão destacada.
@@ -313,11 +361,15 @@ Nenhuma — slide de instrução técnica com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 13 — INSTALAÇÃO DA EXTENSÃO NO MARKETPLACE
 Tipo: Conteúdo com passo a passo
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo numerado com 4 etapas, cada uma acompanhada de captura de tela correspondente:
 1. Abrir painel de extensões (Ctrl+Shift+X / Cmd+Shift+X)
@@ -344,11 +396,15 @@ Nenhuma — slide de passo a passo com prints ilustrativos.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 14 — GERAÇÃO E INSERÇÃO DA CHAVE DE API
 Tipo: Conteúdo com passo a passo
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 4 etapas em dois grupos visuais:
 Grupo A — "No console da Anthropic (console.anthropic.com)":
@@ -378,11 +434,15 @@ Nenhuma — slide de instrução técnica com prints ilustrativos.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 15 — A REGRA DO .GITIGNORE
 Tipo: Conteúdo de alerta
 Duração estimada: 30s
+
 ────────────────────────────────
+
 VISUAL
 Dois cenários lado a lado:
 Esquerda (fundo vermelho claro, ícone ❌): "Arquivo .env com a chave adicionado ao repositório Git → chave exposta publicamente → uso indevido + cobranças inesperadas."
@@ -401,11 +461,15 @@ Nenhuma — slide de alerta com contraste visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 16 — EXERCÍCIO PRÁTICO: VERIFICAÇÃO DE AMBIENTE E INSTALAÇÃO
 Tipo: Instrução prática com checklist
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Lista numerada com 7 passos do exercício, cada um com caixa de verificação clicável. Barra de progresso: "Exercício 2 de 5". Critério de êxito em destaque: "O assistente responde à pergunta do passo 7 sem exibir erro de autenticação. O ícone ⚡ aparece na barra lateral esquerda do VS Code."
 
@@ -427,11 +491,15 @@ Ao marcar todos os 7: botão "Concluí a instalação" liberado → avança para
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí a instalação", liberado após marcar os 7 passos.
 
+
 ────────────────────────────────
+
 SLIDE 17 — CHECKLIST DE CONCLUSÃO DO MÓDULO 2
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ VS Code na versão 1.95.0 ou superior confirmado
@@ -456,11 +524,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 18 — ABERTURA DO MÓDULO 3
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de balão de prompt, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -474,11 +546,15 @@ Botão "Começar" — avança para Slide 19.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 19 — O QUE É UM PROMPT E POR QUE ELE IMPORTA
 Tipo: Conteúdo com analogia
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Definição em destaque tipográfico: "Prompt = o texto que você digita no campo de entrada do assistente."
 Analogia médica em caixa de destaque: "Sintomas vagos → diagnóstico vago. Sintomas descritos com precisão → avaliação precisa."
@@ -496,11 +572,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 20 — TRÊS ELEMENTOS DE UM BOM PROMPT NO CLAUDE CODE
 Tipo: Conteúdo interativo (hotspot em três zonas)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Prompt de exemplo exibido em caixa de código monoespaçada, com três zonas coloridas e clicáveis sobrepostas ao texto, cada uma destacando um elemento:
 Zona 1 (azul) — "Identificar o elemento" → destaca a parte que nomeia a função e o arquivo
@@ -531,11 +611,15 @@ As três zonas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas três zonas.
 
+
 ────────────────────────────────
+
 SLIDE 21 — CONTEXTO AUTOMÁTICO E REFERÊNCIA EXPLÍCITA COM @
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos informativos:
 Bloco 1 — "O que o Claude Code acessa automaticamente":
@@ -568,11 +652,15 @@ Nenhuma — slide de instrução técnica com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 22 — PROMPT INADEQUADO VS. PROMPT BEM FORMULADO
 Tipo: Conteúdo comparativo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois cartões lado a lado:
 Cartão esquerdo (fundo vermelho claro, ícone ❌): "Prompt inadequado"
@@ -593,11 +681,15 @@ Nenhuma — slide comparativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 23 — EXERCÍCIO: QUESTÃO DE MÚLTIPLA ESCOLHA — AVALIAÇÃO DE PROMPTS
 Tipo: Questão de avaliação
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Enunciado da questão em caixa de destaque. Cenário: "Arquivo relatorio.py aberto no editor, contendo a função gerar_resumo(texto)." Quatro alternativas em cartões clicáveis (A, B, C, D). Barra de progresso: "Exercício 3 de 5".
 
@@ -625,11 +717,15 @@ Botão "Avançar para o Módulo 4" — aparece após submissão da questão.
 NAVEGAÇÃO
 Restrita — avanço via botão pós-submissão.
 
+
 ────────────────────────────────
+
 SLIDE 24 — CHECKLIST DE CONCLUSÃO DO MÓDULO 3
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Os três elementos de um bom prompt identificados e compreendidos
@@ -654,11 +750,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 25 — ABERTURA DO MÓDULO 4
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de diff/comparação (duas colunas vermelho/verde), número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -672,11 +772,15 @@ Botão "Começar" — avança para Slide 26.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 26 — O QUE É REFATORAÇÃO?
 Tipo: Conteúdo
 Duração estimada: 30s
+
 ────────────────────────────────
+
 VISUAL
 Definição em destaque tipográfico: "Refatoração = reescrever ou reorganizar um trecho de código existente sem alterar o comportamento externo." Dois blocos de exemplo animados:
 Antes (código com nome de variável enigmático): ícone de código "feio"
@@ -695,11 +799,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 27 — O CICLO DE QUATRO ETAPAS
 Tipo: Conteúdo interativo (linha do tempo clicável)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 4 etapas clicáveis, cada uma com ícone e nome em inglês e português:
 1. Perguntar (Ask) — ícone de balão de pergunta
@@ -734,11 +842,15 @@ As quatro etapas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas quatro etapas.
 
+
 ────────────────────────────────
+
 SLIDE 28 — O DIFF VIEWER: LENDO AS DIFERENÇAS
 Tipo: Conteúdo com demonstração visual
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Representação visual do diff viewer com dois painéis:
 Painel esquerdo — código original com linhas marcadas em vermelho (precedidas por -): "versão original que será removida"
@@ -765,11 +877,15 @@ Nenhuma — slide de demonstração com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 29 — QUANDO REJEITAR UMA SUGESTÃO
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões com situações de rejeição:
 1. "Não entendi o que mudou" — ícone de ponto de interrogação: "Solicite explicação antes de aceitar qualquer coisa que não compreenda."
@@ -789,11 +905,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 30 — DEPURAÇÃO (DEBUGGING) COM O CLAUDE CODE
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Três blocos de informação necessária para descrever um erro ao assistente:
 1. Trecho de código onde o erro ocorreu — ícone de código com X
@@ -813,11 +933,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 31 — EXERCÍCIO PRÁTICO: CICLO DE REFATORAÇÃO GUIADA
 Tipo: Instrução prática com stepper
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Stepper vertical com 5 passos numerados, cada um com o prompt exato a enviar e instrução de ação no VS Code:
 1. Criar arquivo exercicio.py com a função verificar_email()
@@ -846,11 +970,15 @@ Botão "Concluí o exercício" — avança para Slide 32.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 32 — CHECKLIST DE CONCLUSÃO DO MÓDULO 4
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ As quatro etapas do ciclo executadas sem pular a revisão (diff)
@@ -875,11 +1003,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 33 — ABERTURA DO MÓDULO 5
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bandeira de chegada, número e título do módulo. Subtítulo: "Duração estimada: 10 minutos". Animação: slide-in da esquerda.
 
@@ -893,11 +1025,15 @@ Botão "Começar" — avança para Slide 34.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 34 — A ATIVIDADE INTEGRADORA: CONTEXTO
 Tipo: Conteúdo — apresentação do cenário
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Código do arquivo notas.py em caixa monoespaçada (funções c(l) e m(l) com nomes enigmáticos e sem documentação). Legenda: "Arquivo inicial — notas.py — com múltiplos problemas de legibilidade e organização." Instrução: "Reproduza este código em um arquivo chamado notas.py no VS Code antes de avançar."
 Animação: código surge com fade-in; legenda aparece em seguida.
@@ -914,11 +1050,15 @@ Botão "Reproduzi o arquivo no VS Code" — libera avanço para Slide 35.
 NAVEGAÇÃO
 Restrita — avanço via botão "Reproduzi o arquivo no VS Code".
 
+
 ────────────────────────────────
+
 SLIDE 35 — ATIVIDADE INTEGRADORA: QUATRO ETAPAS
 Tipo: Instrução prática com stepper
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Stepper vertical com 4 etapas, cada uma com título, prompt exato e instrução de ação:
 Etapa 1 — Perguntar: prompt de análise sem modificação
@@ -954,11 +1094,15 @@ Botão "Concluí as quatro etapas" — avança para Slide 36.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí as quatro etapas".
 
+
 ────────────────────────────────
+
 SLIDE 36 — CHECKLIST DE AVALIAÇÃO FINAL
 Tipo: Avaliação de conclusão
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de 6 critérios com checkbox interativo:
 ☐ As quatro etapas do ciclo foram executadas sem pular a etapa de revisão (diff)
@@ -989,11 +1133,15 @@ Restrita — botão de avanço condicionado aos critérios acima.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 37 — ENCERRAMENTO DO CURSO
 Tipo: Encerramento
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com identidade visual do Slide 01. Título: "Parabéns — você concluiu a Trilha Essentials." Ícone de conquista animado. Síntese em destaque tipográfico: "O uso produtivo de um assistente de IA não reside na delegação irrestrita de decisões à ferramenta, mas na construção de um diálogo preciso, informado e criticamente supervisionado — em que o profissional humano permanece responsável por cada escolha aprovada." Abaixo: três blocos de aprofundamento com ícones:
 1. Geração automática de testes unitários (Aulas 6 e 7 do material-fonte)

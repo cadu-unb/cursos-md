@@ -16,11 +16,15 @@
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 01 — ABERTURA DO CURSO
 Tipo: Título
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com textura sutil na cor institucional. Título principal centralizado em tipografia grande. Subtítulo: "Trilha Essentials — 90 minutos". Logo do curso à esquerda. Animação de entrada: fade-in do título (0,5s) seguido de fade-in do subtítulo (0,8s).
 
@@ -35,11 +39,15 @@ Botão "Iniciar" — ao clicar, avança para o Slide 02.
 NAVEGAÇÃO
 Restrita — o botão "Próximo" da barra padrão fica oculto; o aluno usa apenas o botão "Iniciar".
 
+
 ────────────────────────────────
+
 SLIDE 02 — VISÃO GERAL DO CURSO E COMPETÊNCIAS
 Tipo: Conteúdo
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 5 etapas representando os módulos. Ícone distinto por módulo: bússola (M1), documento (M2), lápis (M3), pasta de arquivo (M4), bandeira de chegada (M5). Abaixo da linha do tempo, quatro blocos com as competências a desenvolver, surgindo em sequência com delay de 0,3s.
 
@@ -64,11 +72,15 @@ Livre após 12 segundos (botão "Próximo" liberado com timer).
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 03 — ABERTURA DO MÓDULO 1
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bússola, número e título do módulo. Subtítulo: "Duração estimada: 15 minutos". Animação: slide-in da esquerda.
 
@@ -82,11 +94,15 @@ Botão "Começar" — avança para Slide 04.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 04 — O QUE É INTELIGÊNCIA ARTIFICIAL GENERATIVA?
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos contrastados lado a lado:
 Esquerda — "Processador de texto convencional": ícone de Word, texto: "Formata o que o humano digita."
@@ -105,11 +121,15 @@ Nenhuma — slide expositivo com contraste visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 05 — O QUE É O CLAUDE FOR WORD?
 Tipo: Conteúdo
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama simples: janela do Word com painel lateral direito em destaque, seta apontando para o painel com o rótulo "Suplemento Claude for Word". Texto abaixo: definição de suplemento e requisitos técnicos (Word 2019+ ou Office 365 versão 2109+, conexão ativa à internet, conta Anthropic). Animação: janela do Word surge primeiro, depois o painel lateral com fade-in.
 
@@ -130,11 +150,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 06 — INSTALAÇÃO DO SUPLEMENTO CLAUDE FOR WORD
 Tipo: Conteúdo com passo a passo
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Lista numerada animada com os 3 passos de instalação. Cada passo acompanhado de uma captura de tela da interface correspondente (ver instrução de prints abaixo). Animação: cada passo surge em sequência com delay de 0,5s.
 
@@ -168,11 +192,15 @@ Nenhuma — slide de passo a passo com prints.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 07 — OS TRÊS PAPÉIS DO CLAUDE
 Tipo: Conteúdo interativo (hotspot / clique em cartões)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões clicáveis dispostos horizontalmente, cada um com ícone e título:
 1. Arquiteto de Estrutura — ícone de planta/esquema
@@ -205,11 +233,15 @@ Os três cartões devem ser clicados para liberar navegação (trigger: variáve
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nos três cartões.
 
+
 ────────────────────────────────
+
 SLIDE 08 — O PRINCÍPIO DA ORQUESTRAÇÃO
 Tipo: Conteúdo conceitual
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de dois polos:
 Polo esquerdo (VOCÊ — destaque forte): "Decide · Formula · Avalia · Assina"
@@ -230,11 +262,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 09 — DADOS NA NUVEM E INFORMAÇÕES SENSÍVEIS
 Tipo: Conteúdo de alerta
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama simplificado: computador do usuário → nuvem (servidores Anthropic) → resposta retorna. Destaque em vermelho na seta de envio. Abaixo: regra em caixa de alerta com ícone de escudo: "Não envie ao Claude: nomes de estudantes, diagnósticos, dados financeiros individuais, CPF/RG — sem anonimização prévia." Nota: "Este tema será aprofundado no Módulo 3."
 
@@ -249,11 +285,15 @@ Nenhuma — slide informativo de alerta.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 10 — EXERCÍCIO PRÁTICO: VERIFICAÇÃO DE INSTALAÇÃO E PRIMEIRO PROMPT
 Tipo: Instrução prática
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Lista numerada com os 6 passos do exercício. Destaque visual para o prompt-base em caixa monoespaçada. Barra de progresso indicando "Exercício 1 de 5". Animação: passos surgem em sequência com delay de 0,4s.
 
@@ -275,11 +315,15 @@ Botão "Concluí o exercício" — avança para Slide 11 (checklist do módulo).
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 11 — CHECKLIST DE CONCLUSÃO DO MÓDULO 1
 Tipo: Avaliação de êxito
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Suplemento Claude for Word instalado e autenticado
@@ -304,11 +348,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 12 — ABERTURA DO MÓDULO 2
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de documento, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -322,11 +370,15 @@ Botão "Começar" — avança para Slide 13.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 13 — O QUE É MARKDOWN E POR QUE ELE IMPORTA?
 Tipo: Conteúdo com analogia
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Dois painéis lado a lado:
 Esquerda — "Markdown (texto bruto)": caixa de código monoespaçada com exemplo de sintaxe (# Título, ## Seção, - item de lista, **negrito**).
@@ -346,11 +398,15 @@ Nenhuma — slide expositivo com demonstração visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 14 — SINTAXE MARKDOWN ESSENCIAL
 Tipo: Conteúdo de referência (carrossel)
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Carrossel com 6 cartões, um para cada elemento Markdown relevante:
 1. Títulos: # = Título 1 / ## = Título 2 / ### = Título 3
@@ -372,11 +428,15 @@ Todos os 6 devem ser visitados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após visita aos seis cartões.
 
+
 ────────────────────────────────
+
 SLIDE 15 — COLANDO MARKDOWN NO WORD: CONVERSÃO AUTOMÁTICA
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo em três etapas com setas sequenciais:
 1. Claude gera texto em Markdown (print do painel)
@@ -402,11 +462,15 @@ Nenhuma — slide de instrução técnica.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 16 — ÍNDICE AUTOMÁTICO: DA HIERARQUIA AO SUMÁRIO
 Tipo: Conteúdo com demonstração
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Dois painéis lado a lado:
 Esquerda — documento Word com estilos Título 1, 2 e 3 aplicados (representação esquemática).
@@ -432,11 +496,15 @@ Nenhuma — slide de demonstração.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 17 — EXERCÍCIO PRÁTICO: DO MARKDOWN AO WORD COM ÍNDICE
 Tipo: Instrução prática
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo numerado com 7 etapas. Prompt-base em caixa monoespaçada. Barra de progresso: "Exercício 2 de 5". Captura de tela do resultado após colagem (ver print abaixo).
 
@@ -459,11 +527,15 @@ Botão "Concluí o exercício" — avança para Slide 18.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 18 — CHECKLIST DE CONCLUSÃO DO MÓDULO 2
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Conteúdo Markdown colado no Word com conversão aplicada
@@ -488,11 +560,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 19 — ABERTURA DO MÓDULO 3
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de lápis sobre texto, número e título do módulo. Subtítulo: "Duração estimada: 25 minutos". Animação: slide-in da esquerda.
 
@@ -506,11 +582,15 @@ Botão "Começar" — avança para Slide 20.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 20 — AS TRÊS CAMADAS DE REVISÃO
 Tipo: Conteúdo interativo (hotspots)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de três camadas empilhadas (como layers de um documento):
 Camada superior — CLAREZA: "Frase a frase — inteligibilidade"
@@ -541,11 +621,15 @@ As três camadas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas três camadas.
 
+
 ────────────────────────────────
+
 SLIDE 21 — O PROMPT DE REVISÃO ESTRUTURADO
 Tipo: Conteúdo comparativo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois cartões contrastados:
 Cartão esquerdo (fundo vermelho claro, ícone X): "Prompt insuficiente"
@@ -566,11 +650,15 @@ Nenhuma — slide comparativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 22 — O CLAUDE COMO CRÍTICO EDITORIAL
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Ícone de lupa sobre documento. Quatro tipos de problema em cartões menores:
 1. Generalização sem evidência
@@ -591,11 +679,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 23 — ANONIMIZAÇÃO DE DADOS SENSÍVEIS
 Tipo: Conteúdo com regra prática
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos lado a lado:
 Esquerda (fundo vermelho claro) — "Antes de enviar ao Claude — NÃO envie":
@@ -616,11 +708,15 @@ Nenhuma — slide de regra prática.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 24 — EXERCÍCIO PRÁTICO: ANÁLISE CRÍTICA DE UM TRECHO
 Tipo: Instrução prática com observação guiada
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Trecho-problema em caixa de destaque (o texto do plano com generalizações e afirmações sem evidência). Passo a passo de 4 etapas numeradas. Barra de progresso: "Exercício 3 de 5".
 
@@ -643,11 +739,15 @@ Botão "Concluí o exercício" — avança para Slide 25.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 25 — CHECKLIST DE CONCLUSÃO DO MÓDULO 3
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Ao menos três problemas identificados no trecho
@@ -672,11 +772,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 26 — ABERTURA DO MÓDULO 4
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de pasta de arquivo ou régua, número e título do módulo. Subtítulo: "Duração estimada: 15 minutos". Animação: slide-in da esquerda.
 
@@ -690,11 +794,15 @@ Botão "Começar" — avança para Slide 27.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 27 — POR QUE ESTILOS AUTOMÁTICOS — NÃO FORMATAÇÃO MANUAL
 Tipo: Conteúdo comparativo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Dois cenários animados lado a lado:
 Esquerda (formatação manual): ícone de pincel, texto "Selecionar cada elemento · alterar fonte · repetir para cada título → horas de trabalho e inconsistências."
@@ -713,11 +821,15 @@ Nenhuma — slide comparativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 28 — APLICANDO ESTILOS: PASSO A PASSO
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo numerado com 5 etapas, cada uma acompanhada de captura de tela correspondente:
 1. Selecionar título principal → aplicar Título 1
@@ -749,11 +861,15 @@ Nenhuma — slide de instrução técnica com prints ilustrativos.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 29 — O CLAUDE COMO GUIA DE CONFORMIDADE NORMATIVA
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões com normas suportadas: ABNT, APA 7ª edição, Guia Institucional. Abaixo: fluxo simplificado — "Você informa o padrão + tipo de documento → Claude gera checklist de requisitos de formatação." Caixa de alerta — "Normas são periodicamente atualizadas. Valide o checklist gerado contra a fonte oficial antes de usar como referência definitiva."
 Animação: cartões surgem em sequência.
@@ -768,11 +884,15 @@ Nenhuma — slide informativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 30 — QUESTÃO DE MÚLTIPLA ESCOLHA: ESTILOS DO WORD
 Tipo: Questão de avaliação
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Enunciado da questão em caixa de destaque. Quatro alternativas em cartões clicáveis. Após seleção: feedback imediato e fundamentação.
 
@@ -797,11 +917,15 @@ Feedback B/C/D (incorreto — 2ª tentativa): "A resposta correta é A. Estilos 
 NAVEGAÇÃO
 Restrita — avanço liberado após submissão (independente de acerto).
 
+
 ────────────────────────────────
+
 SLIDE 31 — O CHECKLIST DE VALIDAÇÃO PRÉ-PUBLICAÇÃO
 Tipo: Conteúdo com accordeon
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Quatro painéis de accordeon, cada um representando uma camada do checklist:
 1. Qualidade de conteúdo — ícone de lupa
@@ -827,11 +951,15 @@ Todos os quatro painéis devem ser abertos para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após abertura dos quatro painéis.
 
+
 ────────────────────────────────
+
 SLIDE 32 — EXERCÍCIO PRÁTICO: APLICAÇÃO DE ESTILOS E ÍNDICE
 Tipo: Instrução prática
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 9 etapas (conforme o plano de aula). Barra de progresso: "Exercício 4 de 5". Botão para obter checklist de conformidade via Claude.
 
@@ -847,11 +975,15 @@ Botão "Concluí o exercício" — avança para Slide 33.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 33 — CHECKLIST DE CONCLUSÃO DO MÓDULO 4
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Estilos Título 1, 2, 3 e Normal aplicados ao documento
@@ -875,11 +1007,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 34 — ABERTURA DO MÓDULO 5
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bandeira de chegada, número e título do módulo. Subtítulo: "Duração estimada: 15 minutos + 60 a 90 minutos para a atividade (pode ser distribuída em sessões)". Animação: slide-in da esquerda.
 
@@ -893,11 +1029,15 @@ Botão "Começar" — avança para Slide 35.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 35 — O FLUXO COMPLETO EM 8 ETAPAS
 Tipo: Conteúdo — linha do tempo interativa
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 8 etapas numeradas, cada uma com ícone e título curto. Cada etapa é clicável e revela layer com descrição, entregável esperado e módulo de origem:
 1. Escolha do tema e definição do escopo
@@ -921,11 +1061,15 @@ Todas as 8 etapas devem ser clicadas para liberar navegação (trigger: variáve
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas oito etapas.
 
+
 ────────────────────────────────
+
 SLIDE 36 — ESCOLHA SEU DOCUMENTO
 Tipo: Conteúdo — seleção de tipo de atividade
 Duração estimada: 30s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões clicáveis, cada um apresentando um tipo de documento:
 Tipo A — Relatório institucional: "8 a 12 páginas — ex.: proposta de implementação de iniciativa pedagógica ou administrativa"
@@ -946,11 +1090,15 @@ Trigger: ao clicar em qualquer cartão, variável "tipo_documento" é definida e
 NAVEGAÇÃO
 Restrita — botão de avanço liberado após seleção de um tipo.
 
+
 ────────────────────────────────
+
 SLIDE 37 — ATIVIDADE INTEGRADORA: PASSO A PASSO
 Tipo: Instrução prática guiada
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Lista numerada com as 6 etapas da atividade integradora, cada uma com referência ao módulo de origem entre parênteses e ícone do módulo correspondente. Barra de progresso: "Exercício 5 de 5 — Atividade integradora". Botão de acesso ao prompt integrador.
 
@@ -972,11 +1120,15 @@ Botão "Concluí a atividade" — avança para Slide 38.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí a atividade".
 
+
 ────────────────────────────────
+
 SLIDE 38 — CHECKLIST DE AVALIAÇÃO FINAL
 Tipo: Avaliação de conclusão
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de 10 critérios com checkbox interativo para cada um:
 ☐ O outline foi aprovado e ajustado antes da redação
@@ -1009,11 +1161,15 @@ Restrita — botão de avanço aparece apenas com todos os dez checkboxes marcad
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 39 — ENCERRAMENTO DO CURSO
 Tipo: Encerramento
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com a mesma identidade visual do Slide 01. Título: "Parabéns — você concluiu a Trilha Essentials." Ícone de conquista animado. Síntese em destaque tipográfico: "O Claude não escreve o seu documento — ele executa enquanto você orquestra." Abaixo, três blocos com as frentes de aprofundamento:
 1. Claude Desktop — para documentos sensíveis (processamento local)

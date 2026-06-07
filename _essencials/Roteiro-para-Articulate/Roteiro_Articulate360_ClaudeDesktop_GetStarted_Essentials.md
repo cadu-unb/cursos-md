@@ -16,11 +16,15 @@
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 01 — ABERTURA DO CURSO
 Tipo: Título
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com textura sutil na cor institucional. Título principal em tipografia grande. Subtítulo: "Trilha Essentials — 130 minutos". Logo/ícone do Claude Desktop ao lado do título. Animação: fade-in do título (0,5s), fade-in do subtítulo (0,8s).
 
@@ -35,11 +39,15 @@ Botão "Iniciar" — avança para o Slide 02.
 NAVEGAÇÃO
 Restrita — botão "Próximo" da barra padrão oculto; aluno usa apenas o botão "Iniciar".
 
+
 ────────────────────────────────
+
 SLIDE 02 — VISÃO GERAL DO CURSO
 Tipo: Conteúdo
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 7 etapas, cada uma com ícone distinto: monitor (M1), três abas (M2), balão de chat (M3), robô/automação (M4), pasta de arquivos (M5), lápis/revisão (M6), bandeira (M7). Abaixo da linha do tempo, seis blocos de competências a desenvolver surgindo em sequência com delay de 0,3s.
 
@@ -60,11 +68,15 @@ Livre após 15 segundos (botão "Próximo" liberado com timer).
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 03 — ABERTURA DO MÓDULO 1
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de monitor/computador, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -78,11 +90,15 @@ Botão "Começar" — avança para Slide 04.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 04 — O QUE É O CLAUDE DESKTOP
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos contrastados lado a lado:
 Esquerda — "Acesso via navegador (claude.ai)": ícone de navegador; texto: "Requer copiar e colar manualmente o conteúdo dos arquivos."
@@ -101,11 +117,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 05 — SISTEMAS OPERACIONAIS E ARQUITETURAS COMPATÍVEIS
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos de sistema operacional com sub-itens:
 Bloco Windows (ícone Windows): Windows 10 e 11 / Arquiteturas: x64 e ARM64 / Como verificar: Configurações > Sistema > Sobre > campo "Tipo de sistema"
@@ -138,11 +158,15 @@ Nenhuma — slide de instrução técnica com prints ilustrativos.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 06 — PLANOS DE ASSINATURA: QUAL É O NECESSÁRIO?
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões de plano lado a lado:
 Cartão "Free" (fundo cinza claro): ícone ❌ — "Não inclui o Claude Desktop. A aba Code exibe mensagem 'Upgrade Required'."
@@ -163,11 +187,15 @@ Nenhuma — slide informativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 07 — INSTALAÇÃO E PRIMEIRO LOGIN
 Tipo: Conteúdo com passo a passo
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo numerado com 4 etapas, cada uma acompanhada de captura de tela:
 1. Acessar o site oficial da Anthropic e localizar a página de download do Claude Desktop
@@ -188,11 +216,15 @@ Nenhuma — slide de instrução técnica.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 08 — VERIFICAÇÃO PÓS-INSTALAÇÃO: TRÊS INTERFACES ACESSÍVEIS
 Tipo: Conteúdo
 Duração estimada: 30s
+
 ────────────────────────────────
+
 VISUAL
 Print do Claude Desktop aberto e autenticado, com as três abas — Chat, Code, Cowork — visíveis na parte superior da janela. Setas indicando cada aba com rótulo curto. Caixa de critério de êxito: "As três abas estão visíveis e acessíveis. O aplicativo não exibe mensagem de erro de autenticação."
 
@@ -212,11 +244,15 @@ Nenhuma — slide de verificação com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 09 — EXERCÍCIO PRÁTICO: CHECKLIST DE VERIFICAÇÃO DO AMBIENTE
 Tipo: Instrução prática com checklist interativo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Lista de 5 itens com checkbox interativo:
 ☐ Sistema operacional e versão identificados
@@ -244,11 +280,15 @@ Restrita — botão de avanço aparece apenas com os cinco checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 10 — ABERTURA DO MÓDULO 2
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de três abas, número e título do módulo. Subtítulo: "Duração estimada: 15 minutos". Animação: slide-in da esquerda.
 
@@ -262,11 +302,15 @@ Botão "Começar" — avança para Slide 11.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 11 — AS TRÊS INTERFACES: PANORAMA
 Tipo: Conteúdo interativo (três cartões clicáveis)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões clicáveis dispostos horizontalmente, cada um com ícone, título e síntese de uma linha:
 1. Chat — ícone de balão de conversa: "Consulta e conversa — sem acesso a arquivos locais"
@@ -299,11 +343,15 @@ Os três cartões devem ser clicados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nos três cartões.
 
+
 ────────────────────────────────
+
 SLIDE 12 — CLAUDE DESKTOP VS. ACESSO VIA NAVEGADOR
 Tipo: Conteúdo comparativo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Tabela comparativa com três linhas de capacidade e duas colunas (claude.ai via navegador vs. Claude Desktop):
 1. Acesso a arquivos locais: Não (requer cópia manual) / Sim (automático, pasta-projeto)
@@ -323,11 +371,15 @@ Nenhuma — slide comparativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 13 — EXERCÍCIO: MÚLTIPLA ESCOLHA — IDENTIFICAÇÃO DA INTERFACE ADEQUADA
 Tipo: Questão de múltipla escolha em série (4 cenários)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Quatro cenários apresentados em sequência (stepper ou acordeão). Para cada cenário: enunciado + três opções (Chat / Code / Cowork) como botões de escolha. Após seleção: feedback imediato com gabarito e fundamentação. Barra de progresso: "Exercício 2 de 7".
 
@@ -363,11 +415,15 @@ Feedback incorreto (1ª tentativa): "Não é essa. Pense na natureza da tarefa: 
 NAVEGAÇÃO
 Restrita — avanço liberado após resposta a todos os 4 cenários.
 
+
 ────────────────────────────────
+
 SLIDE 14 — CHECKLIST DE CONCLUSÃO DO MÓDULO 2
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ As três interfaces — Chat, Code e Cowork — compreendidas e diferenciadas
@@ -392,11 +448,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 15 — ABERTURA DO MÓDULO 3
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de balão de chat, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -410,11 +470,15 @@ Botão "Começar" — avança para Slide 16.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 16 — CASOS DE USO DO CHAT
 Tipo: Conteúdo interativo (carrossel)
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Carrossel com 5 cartões de casos de uso do Chat, cada um com ícone e exemplo concreto:
 1. Elaboração e revisão de textos — com conteúdo fornecido na conversa
@@ -436,11 +500,15 @@ Todos os 5 devem ser visitados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após visita aos cinco cartões.
 
+
 ────────────────────────────────
+
 SLIDE 17 — A NATUREZA ITERATIVA DO CHAT
 Tipo: Conteúdo com demonstração
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de ciclo com três setas em sequência:
 1. "Solicitação inicial" → 2. "Avaliar resposta: o que faltou? (nível, tom, formato, escopo)" → 3. "Reformular com critério adicional" → (seta de retorno ao início)
@@ -467,11 +535,15 @@ Nenhuma — slide expositivo com demonstração visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 18 — LIMITAÇÕES DO CHAT: DUAS QUE IMPORTAM
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos de limitação com ícone de atenção:
 Limitação 1 — "Sem acesso ao sistema de arquivos local": texto: "Toda informação deve ser fornecida explicitamente — digitada, colada ou anexada." Solução: "Use a aba Code quando precisar que o assistente leia ou modifique arquivos salvos."
@@ -489,11 +561,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 19 — EXERCÍCIO PRÁTICO: REFINAMENTO ITERATIVO DE SOLICITAÇÃO
 Tipo: Instrução prática
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 6 etapas numeradas. Solicitação inicial em caixa de destaque. Exemplo de reformulação em caixa de destaque. Barra de progresso: "Exercício 3 de 7".
 
@@ -510,11 +586,15 @@ Botão "Concluí o exercício" — avança para Slide 20.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 20 — CHECKLIST DE CONCLUSÃO DO MÓDULO 3
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Casos de uso adequados ao Chat identificados
@@ -539,11 +619,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 21 — ABERTURA DO MÓDULO 4
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de robô/automação, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -557,11 +641,15 @@ Botão "Começar" — avança para Slide 22.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 22 — COMO FUNCIONA O COWORK
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama comparativo em três linhas:
 
@@ -582,11 +670,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 23 — TAREFAS ADEQUADAS E INADEQUADAS AO COWORK
 Tipo: Conteúdo interativo (dois painéis clicáveis)
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Dois painéis expansíveis:
 Painel verde — "Adequadas ao Cowork": ícone de check. Lista: tarefas repetitivas e de longa duração; múltiplos arquivos com critério uniforme; escopo bem definido e baixo risco em caso de erro.
@@ -608,11 +700,15 @@ Ambos devem ser abertos para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após abertura dos dois painéis.
 
+
 ────────────────────────────────
+
 SLIDE 24 — A TASK BRIEF: OS QUATRO ELEMENTOS
 Tipo: Conteúdo interativo (hotspot em quatro zonas)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Modelo de task brief em caixa de texto com quatro zonas coloridas e clicáveis sobrepostas:
 Zona 1 (azul) — Descrição da tarefa
@@ -636,11 +732,15 @@ As quatro zonas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas quatro zonas.
 
+
 ────────────────────────────────
+
 SLIDE 25 — O RELATÓRIO DE EXECUÇÃO DO COWORK
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Print ilustrativo do painel de status do Cowork com uma missão concluída, mostrando o relatório de entrega. Quatro perguntas de avaliação em lista ao lado:
 1. "O que foi realizado conforme o esperado?"
@@ -665,11 +765,15 @@ Nenhuma — slide expositivo com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 26 — EXERCÍCIO: ELABORAÇÃO E AVALIAÇÃO DE UMA TASK BRIEF
 Tipo: Instrução prática em duas partes
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Duas partes com separador visual:
 Parte 1 — "Identifique os problemas": instrução deficiente em caixa de destaque ("Revise meus documentos e me diga o que está errado.") + campo de anotação com prompt: "Liste ao menos três problemas com esta instrução."
@@ -688,11 +792,15 @@ Botão "Concluí o exercício" — avança para Slide 27.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 27 — CHECKLIST DE CONCLUSÃO DO MÓDULO 4
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Diferença entre Cowork, Chat e Code em grau de autonomia compreendida
@@ -717,11 +825,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 28 — ABERTURA DO MÓDULO 5
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de pasta de arquivos, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -735,11 +847,15 @@ Botão "Começar" — avança para Slide 29.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 29 — A REGRA DO ESCOPO MÍNIMO
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de duas opções:
 Opção ruim (fundo vermelho claro, ícone ❌): "Abrir a pasta do usuário completa → assistente acessa documentos pessoais, fotos e dados irrelevantes."
@@ -757,11 +873,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 30 — ESTRUTURA MÍNIMA DE UMA PASTA-PROJETO
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Representação da estrutura de arquivos em árvore:
 meu-primeiro-projeto/
@@ -788,11 +908,15 @@ Nenhuma — slide de instrução técnica com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 31 — PROTEÇÃO DE CREDENCIAIS COM .GITIGNORE
 Tipo: Conteúdo de alerta
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois cenários lado a lado:
 Esquerda (fundo vermelho claro, ícone ❌): "Arquivo .env sem .gitignore → credenciais rastreadas → risco de exposição em repositórios remotos."
@@ -814,11 +938,15 @@ Nenhuma — slide de alerta com contraste visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 32 — GIT COMO REDE DE SEGURANÇA
 Tipo: Conteúdo com referência técnica
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de cinco comandos Git com descrição e uso no contexto do Claude Desktop:
 git status → "Ver quais arquivos foram modificados"
@@ -839,11 +967,15 @@ Nenhuma — slide de referência técnica.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 33 — EXERCÍCIO PRÁTICO: CRIAÇÃO DE ESTRUTURA MÍNIMA DE PROJETO
 Tipo: Instrução prática com checklist
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 6 etapas numeradas. Conteúdo do README.md e do .gitignore em caixas de código monoespaçadas. Barra de progresso: "Exercício 5 de 7". Critério de êxito em destaque.
 
@@ -867,11 +999,15 @@ Botão "Concluí o exercício" — avança para Slide 34.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 34 — CHECKLIST DE CONCLUSÃO DO MÓDULO 5
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Quatro itens de checklist interativo:
 ☐ Pasta meu-primeiro-projeto criada com README.md, .gitignore e .env
@@ -897,11 +1033,15 @@ Restrita — botão de avanço aparece apenas com os quatro checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 35 — ABERTURA DO MÓDULO 6
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de lápis/revisão, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -915,11 +1055,15 @@ Botão "Começar" — avança para Slide 36.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 36 — OS TRÊS ELEMENTOS DE UMA SOLICITAÇÃO EFICAZ
 Tipo: Conteúdo interativo (hotspot em três zonas)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Solicitação de exemplo em caixa de código monoespaçada, com três zonas coloridas e clicáveis sobrepostas:
 Zona 1 (azul) — Ação: o que deve ser feito
@@ -951,11 +1095,15 @@ As três zonas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas três zonas.
 
+
 ────────────────────────────────
+
 SLIDE 37 — A DIFF VIEW: REVISANDO ALTERAÇÕES ANTES DE ACEITAR
 Tipo: Conteúdo com demonstração visual
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Representação visual da diff view com dois painéis:
 Painel esquerdo — conteúdo original com linhas em vermelho (sinal -): "Versão original — será removida"
@@ -980,11 +1128,15 @@ Nenhuma — slide de demonstração com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 38 — O FLUXO COMPLETO: SOLICITAR → REVISAR → REGISTRAR OU REVERTER
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo com quatro passos:
 1. "Solicitar" → ícone de lápis
@@ -1006,11 +1158,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 39 — EXERCÍCIO: REFINAMENTO DE SOLICITAÇÕES
 Tipo: Questão de avaliação em três pares
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Três pares de solicitações apresentados em sequência (stepper). Para cada par: as duas opções em cartões lado a lado (A e B) + botão de escolha por par + feedback com gabarito e fundamentação após a seleção. Barra de progresso: "Exercício 6 de 7".
 
@@ -1044,11 +1200,15 @@ Feedback incorreto (1ª tentativa): "Reveja: qual das opções contém ação, e
 NAVEGAÇÃO
 Restrita — avanço liberado após resposta aos três pares.
 
+
 ────────────────────────────────
+
 SLIDE 40 — CHECKLIST DE CONCLUSÃO DO MÓDULO 6
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Os três elementos de uma solicitação eficaz (ação, escopo, critérios) identificados
@@ -1073,11 +1233,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 41 — ABERTURA DO MÓDULO 7
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bandeira de chegada, número e título do módulo. Subtítulo: "Duração estimada: 15 minutos". Animação: slide-in da esquerda.
 
@@ -1091,11 +1255,15 @@ Botão "Começar" — avança para Slide 42.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 42 — O FIO CONDUTOR DO CURSO
 Tipo: Conteúdo — síntese conceitual
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de dois polos:
 Polo esquerdo (PARTICIPANTE): "Compreende o que solicita → revisa o que recebe → decide o que aprova"
@@ -1115,11 +1283,15 @@ Nenhuma — slide de síntese conceitual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 43 — ATIVIDADE INTEGRADORA: SETE ETAPAS
 Tipo: Instrução prática com stepper
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Stepper vertical com 7 etapas numeradas, cada uma com referência ao módulo de origem e instrução objetiva:
 Etapa 1 — Verificação do ambiente (M1): abrir o Claude Desktop, confirmar autenticação e abas; anotar versão via Help > About
@@ -1150,11 +1322,15 @@ Botão "Concluí as sete etapas" — avança para Slide 44.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí as sete etapas".
 
+
 ────────────────────────────────
+
 SLIDE 44 — CHECKLIST DE AVALIAÇÃO FINAL
 Tipo: Avaliação de conclusão
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de 9 critérios com checkbox interativo:
 ☐ O aplicativo está autenticado e as três interfaces estão acessíveis
@@ -1186,11 +1362,15 @@ Restrita — botão de avanço aparece apenas com os nove checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 45 — ENCERRAMENTO DO CURSO
 Tipo: Encerramento
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com identidade visual do Slide 01. Título: "Parabéns — você concluiu a Trilha Essentials." Ícone de conquista animado. Síntese em destaque tipográfico: "O Claude Desktop é uma ferramenta de amplificação — amplifica o entendimento de quem compreende o que solicita e revisa o que recebe." Abaixo: quatro blocos de aprofundamento com ícones:
 1. Arquivo .claude.md — regras e preferências persistentes por projeto

@@ -16,11 +16,15 @@
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 01 — ABERTURA DO CURSO
 Tipo: Título
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com textura sutil na cor institucional. Título principal em tipografia grande. Subtítulo: "Trilha Essentials — 90 minutos". Logo do curso à esquerda. Animação: fade-in do título (0,5s), fade-in do subtítulo (0,8s).
 
@@ -35,11 +39,15 @@ Botão "Iniciar" — avança para o Slide 02.
 NAVEGAÇÃO
 Restrita — botão "Próximo" da barra padrão oculto; aluno usa apenas o botão "Iniciar".
 
+
 ────────────────────────────────
+
 SLIDE 02 — VISÃO GERAL DO CURSO E COMPETÊNCIAS
 Tipo: Conteúdo
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 5 etapas, cada uma com ícone distinto: bússola (M1), engrenagem de prompt (M2), grade de fórmulas (M3), lupa sobre dados (M4), bandeira de chegada (M5). Abaixo da linha do tempo, quatro blocos com as competências a desenvolver surgindo em sequência com delay de 0,3s.
 
@@ -64,11 +72,15 @@ Livre após 12 segundos (botão "Próximo" liberado com timer).
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 03 — ABERTURA DO MÓDULO 1
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bússola, número e título do módulo. Subtítulo: "Duração estimada: 20 minutos". Animação: slide-in da esquerda.
 
@@ -82,11 +94,15 @@ Botão "Começar" — avança para Slide 04.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 04 — O INTERVALO ENTRE O PROBLEMA E O ESPECIALISTA
 Tipo: Conteúdo
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama com três elementos em linha:
 Ícone de planilha com problema (esquerda) → ponto de interrogação grande (centro) → ícone de especialista humano distante (direita, com seta longa).
@@ -104,11 +120,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 05 — CONSULTOR TÉCNICO: O QUE ISSO SIGNIFICA?
 Tipo: Conteúdo com analogia
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos contrastados lado a lado:
 Esquerda — "Busca em mecanismo de pesquisa": ícone de lupa, texto: "Qualidade do resultado depende pouco da qualidade da pergunta."
@@ -127,11 +147,15 @@ Nenhuma — slide expositivo com contraste visual.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 06 — O AMBIENTE DE TRABALHO RECOMENDADO
 Tipo: Conteúdo com instrução técnica
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama mostrando dois painéis lado a lado: Excel (à esquerda) e claude.ai no navegador (à direita). Setas bidirecionais entre os dois indicando o ciclo iterativo: "Formular dúvida → Copiar solução → Aplicar no Excel → Validar e refinar". Abaixo: nota técnica — "Versão recomendada: Excel 2019 ou Microsoft 365. Acesso ao Claude: claude.ai (conta gratuita ou Pro)."
 
@@ -152,11 +176,15 @@ Nenhuma — slide de instrução técnica com print ilustrativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 07 — AS CINCO ETAPAS DO CICLO DE CONSULTORIA
 Tipo: Conteúdo interativo (linha do tempo clicável)
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com 5 etapas clicáveis, cada uma com ícone e título curto:
 1. Diagnóstico — ícone de lupa
@@ -185,11 +213,15 @@ Todas as 5 etapas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas cinco etapas.
 
+
 ────────────────────────────────
+
 SLIDE 08 — O CLAUDE NÃO É INFALÍVEL
 Tipo: Conteúdo de alerta
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Ícone de alerta (triângulo laranja). Três situações em cartões menores:
 1. Contexto insuficiente → resposta genérica
@@ -209,11 +241,15 @@ Nenhuma — slide de alerta informativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 09 — EXERCÍCIO PRÁTICO: CONFIGURAR O AMBIENTE E REALIZAR A PRIMEIRA CONSULTA
 Tipo: Instrução prática
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo numerado com 6 etapas. Tabela de dados do exercício (ID, Nome, Receita — 5 clientes) em caixa de destaque. Prompt-base em caixa monoespaçada. Barra de progresso: "Exercício 1 de 5". Animação: etapas surgem em sequência com delay de 0,4s.
 
@@ -236,11 +272,15 @@ Botão "Concluí o exercício" — avança para Slide 10.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 10 — CHECKLIST DE CONCLUSÃO DO MÓDULO 1
 Tipo: Avaliação de êxito
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Quatro itens de checklist interativo:
 ☐ Excel e Claude abertos lado a lado no ambiente de trabalho
@@ -266,11 +306,15 @@ Restrita — botão de avanço aparece apenas com os quatro checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 11 — ABERTURA DO MÓDULO 2
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de engrenagem de prompt, número e título do módulo. Subtítulo: "Duração estimada: 25 minutos". Animação: slide-in da esquerda.
 
@@ -284,11 +328,15 @@ Botão "Começar" — avança para Slide 12.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 12 — O PRINCÍPIO CENTRAL: QUALIDADE DO PROMPT, QUALIDADE DA RESPOSTA
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Equação visual em destaque tipográfico: "Prompt impreciso → lacunas preenchidas com suposições → resposta superficial." Abaixo: versão positiva — "Prompt detalhado → modelo interpreta com precisão → resposta acionável." Ícone de seta bidirecional entre prompt e resposta.
 Animação: equação negativa surge primeiro; versão positiva surge com delay de 0,8s.
@@ -304,11 +352,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 13 — A ESTRUTURA DE SEIS SEÇÕES DO PROMPT ANALÍTICO
 Tipo: Conteúdo interativo (acordeão / cartões expansíveis)
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Seis seções em accordion expansível, cada uma com rótulo, ícone e descrição expandida ao clicar:
 1. CONTEXTO — ícone de mapa
@@ -336,11 +388,15 @@ Todos os 6 painéis devem ser abertos para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após abertura dos seis painéis.
 
+
 ────────────────────────────────
+
 SLIDE 14 — OS QUATRO TIPOS DE ANÁLISE E SEUS PROMPTS
 Tipo: Conteúdo interativo (carrossel)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Carrossel com 4 cartões, cada um com tipo de análise, pergunta-chave, ênfase no prompt e exemplo:
 1. Descritiva — "O que aconteceu?" → ênfase em métricas desejadas
@@ -363,11 +419,15 @@ Todos os 4 devem ser visitados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após visita aos quatro cartões.
 
+
 ────────────────────────────────
+
 SLIDE 15 — QUANDO A RESPOSTA É INSATISFATÓRIA: TRÊS SITUAÇÕES
 Tipo: Conteúdo interativo (hotspot)
 Duração estimada: 45s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama com três ícones de situação clicáveis:
 1. Resposta genérica — ícone de nuvem vaga
@@ -390,11 +450,15 @@ Os três ícones devem ser clicados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nos três ícones.
 
+
 ────────────────────────────────
+
 SLIDE 16 — EXERCÍCIO PRÁTICO: PROMPT VAGO VS. PROMPT ESTRUTURADO
 Tipo: Instrução prática com questão de múltipla escolha
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 4 etapas para o experimento. Dois campos de código monoespaçado lado a lado — prompt vago (esquerda, fundo vermelho claro) e prompt estruturado (direita, fundo verde claro). Barra de progresso: "Exercício 2 de 5".
 
@@ -433,11 +497,15 @@ Botão "Concluir Módulo 2" — aparece após submissão, avança para Slide 17.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluir Módulo 2", liberado após submissão da questão.
 
+
 ────────────────────────────────
+
 SLIDE 17 — CHECKLIST DE CONCLUSÃO DO MÓDULO 2
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Prompt vago e prompt estruturado enviados ao Claude
@@ -462,11 +530,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 18 — ABERTURA DO MÓDULO 3
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de grade de fórmulas, número e título do módulo. Subtítulo: "Duração estimada: 25 minutos". Animação: slide-in da esquerda.
 
@@ -480,11 +552,15 @@ Botão "Começar" — avança para Slide 19.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 19 — FUNÇÕES DE BUSCA: O QUE SÃO E PARA QUÊ SERVEM
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama de cruzamento de tabelas: Tabela A (Matrícula, Nota) + Tabela B (Matrícula, Nome) → resultado com Nome trazido para Tabela A pela Matrícula. Legenda: "Funções de busca = mecanismo de cruzamento de tabelas (equivalente ao JOIN em bancos de dados relacionais)." Animação: tabelas surgem primeiro; seta de cruzamento e resultado surgem em sequência.
 
@@ -499,11 +575,15 @@ Nenhuma — slide expositivo com diagrama.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 20 — PROCV, XLOOKUP E ÍNDICE/CORRESP: QUANDO USAR CADA UM
 Tipo: Conteúdo interativo (tabela comparativa clicável)
 Duração estimada: 60s
+
 ────────────────────────────────
+
 VISUAL
 Tabela comparativa com três linhas (PROCV, XLOOKUP, ÍNDICE/CORRESP) e quatro colunas (Versão necessária, Direção de busca, Múltiplas condições, Limitação principal). Cada linha da tabela é clicável e abre uma layer com explicação detalhada, sintaxe básica e exemplo de uso.
 
@@ -534,11 +614,15 @@ As três linhas devem ser clicadas para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nas três linhas.
 
+
 ────────────────────────────────
+
 SLIDE 21 — SE, IFS E SWITCH: LÓGICA CONDICIONAL
 Tipo: Conteúdo interativo (carrossel)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Carrossel com 3 cartões, cada um com a função, caso de uso ideal, sintaxe e exemplo:
 1. SE (IF) — condição única ou dois resultados
@@ -559,11 +643,15 @@ Todos os 3 devem ser visitados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após visita aos três cartões.
 
+
 ────────────────────────────────
+
 SLIDE 22 — O CLAUDE PARA GERAÇÃO E EXPLICAÇÃO DE FÓRMULAS
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Dois blocos em destaque:
 Bloco 1 — "Peça a fórmula": ícone de código. Texto: "Forneça exemplos concretos de dados de entrada e do resultado esperado."
@@ -582,11 +670,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 23 — EXERCÍCIO PRÁTICO: SELECIONAR A FUNÇÃO CORRETA E APLICAR IFS
 Tipo: Instrução prática
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Passo a passo de 6 etapas. Descrição do cenário (Tabela Alunos e Tabela Notas) em caixa de destaque. Prompt-base em caixa monoespaçada. Barra de progresso: "Exercício 3 de 5".
 
@@ -615,11 +707,15 @@ Botão "Concluí o exercício" — avança para Slide 24.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 24 — CHECKLIST DE CONCLUSÃO DO MÓDULO 3
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Quatro itens de checklist interativo:
 ☐ Fórmula de busca implementada na coluna I com tratamento de erro
@@ -645,11 +741,15 @@ Restrita — botão de avanço aparece apenas com os quatro checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 25 — ABERTURA DO MÓDULO 4
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de lupa sobre dados, número e título do módulo. Subtítulo: "Duração estimada: 10 minutos". Animação: slide-in da esquerda.
 
@@ -663,11 +763,15 @@ Botão "Começar" — avança para Slide 26.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 26 — GARBAGE IN, GARBAGE OUT
 Tipo: Conteúdo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Ícone de lata de lixo com uma fórmula complexa dentro — resultado: gráfico com dados incorretos saindo. Abaixo: texto em destaque — "'Garbage in, garbage out': fórmulas sofisticadas e visualizações elaboradas perdem completamente sua utilidade quando aplicadas sobre dados imprecisos, incompletos ou inconsistentes." Em contraste: ícone de base de dados limpa → fórmulas → resultado confiável.
 Animação: cenário negativo surge primeiro; cenário positivo surge com delay de 0,7s.
@@ -682,11 +786,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 27 — AS QUATRO CATEGORIAS DE PROBLEMAS EM BASES DE DADOS
 Tipo: Conteúdo interativo (hotspot)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Diagrama com quatro quadrantes clicáveis, cada um com ícone e título:
 1. Campos vazios — ícone de célula em branco
@@ -712,11 +820,15 @@ Todos os 4 quadrantes devem ser clicados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após clique nos quatro quadrantes.
 
+
 ────────────────────────────────
+
 SLIDE 28 — FUNÇÕES DE NORMALIZAÇÃO DE TEXTO
 Tipo: Conteúdo de referência (carrossel)
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Carrossel com 3 cartões de funções de normalização:
 1. REMOVER.ESPAÇOS — remove espaços em excesso no início, fim e entre palavras
@@ -737,11 +849,15 @@ Todos os 3 devem ser visitados para liberar navegação.
 NAVEGAÇÃO
 Restrita — botão "Próximo" liberado após visita aos três cartões.
 
+
 ────────────────────────────────
+
 SLIDE 29 — ABORDAGENS PARA REMOÇÃO DE DUPLICATAS
 Tipo: Conteúdo comparativo
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Três cartões comparativos:
 1. Fórmulas — "Identificam duplicatas, mas não as removem. Útil para sinalização."
@@ -761,11 +877,15 @@ Nenhuma — slide comparativo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 30 — EXERCÍCIO PRÁTICO: DIAGNOSTICAR E NORMALIZAR UMA BASE COM PROBLEMAS
 Tipo: Instrução prática
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de dados com problemas intencionais (ID, Nome, Email, Data_Cadastro, Telefone — 5 registros com inconsistências) em caixa de destaque. Passo a passo de 4 etapas. Barra de progresso: "Exercício 4 de 5".
 
@@ -794,11 +914,15 @@ Botão "Concluí o exercício" — avança para Slide 31.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí o exercício".
 
+
 ────────────────────────────────
+
 SLIDE 31 — CHECKLIST DE CONCLUSÃO DO MÓDULO 4
 Tipo: Avaliação de êxito
 Duração estimada: 20s
+
 ────────────────────────────────
+
 VISUAL
 Três itens de checklist interativo:
 ☐ Coluna de nomes normalizados com capitalização consistente (Ana Silva, Bruno Santos, Carlos Lima)
@@ -823,11 +947,15 @@ Restrita — botão de avanço aparece apenas com os três checkboxes marcados.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 32 — ABERTURA DO MÓDULO 5
 Tipo: Título de módulo
 Duração estimada: 15s
+
 ────────────────────────────────
+
 VISUAL
 Banner com ícone de bandeira de chegada, número e título do módulo. Subtítulo: "Duração estimada: 10 minutos de planejamento + execução conforme disponibilidade". Animação: slide-in da esquerda.
 
@@ -841,11 +969,15 @@ Botão "Começar" — avança para Slide 33.
 NAVEGAÇÃO
 Restrita — apenas o botão "Começar".
 
+
 ────────────────────────────────
+
 SLIDE 33 — O FLUXO COMPLETO DE CONSULTORIA EM 5 ETAPAS
 Tipo: Conteúdo — linha do tempo animada
 Duração estimada: 40s
+
 ────────────────────────────────
+
 VISUAL
 Linha do tempo horizontal com as 5 etapas do ciclo de consultoria (retomada do Slide 07), agora mapeadas para as atividades do exercício integrador. Cada etapa conectada ao módulo de origem entre parênteses:
 1. Diagnóstico (Módulo 4)
@@ -866,11 +998,15 @@ Nenhuma — slide expositivo.
 NAVEGAÇÃO
 Livre após conclusão da narração.
 
+
 ────────────────────────────────
+
 SLIDE 34 — A ATIVIDADE INTEGRADORA: CENÁRIO
 Tipo: Conteúdo — apresentação do cenário
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de dados do cenário (Matrícula, Nome, Curso, Nota_Final, Frequência, Data_Matrícula — 6 registros com problemas intencionais: capitalização inconsistente, formatos de data diferentes, duplicata, campo vazio) exibida em caixa de destaque com scroll se necessário. Legenda: "Base de desempenho de alunos — coordenação acadêmica fictícia."
 
@@ -886,11 +1022,15 @@ Botão "Reproduzi a tabela no Excel" — libera avanço para Slide 35.
 NAVEGAÇÃO
 Restrita — avanço via botão "Reproduzi a tabela no Excel".
 
+
 ────────────────────────────────
+
 SLIDE 35 — ATIVIDADE INTEGRADORA: ETAPAS 1 A 5
 Tipo: Instrução prática guiada (stepper)
 Duração estimada: 50s
+
 ────────────────────────────────
+
 VISUAL
 Stepper vertical com 5 etapas numeradas, cada uma expansível ao clicar:
 Etapa 1 — Diagnóstico (Módulo 4): prompt de diagnóstico de qualidade
@@ -928,11 +1068,15 @@ Botão "Concluí todas as etapas" — avança para Slide 36.
 NAVEGAÇÃO
 Restrita — avanço via botão "Concluí todas as etapas".
 
+
 ────────────────────────────────
+
 SLIDE 36 — CHECKLIST DE AVALIAÇÃO FINAL
 Tipo: Avaliação de conclusão
 Duração estimada: 35s
+
 ────────────────────────────────
+
 VISUAL
 Tabela de 7 critérios com checkbox interativo:
 ☐ Diagnóstico identificou pelo menos 3 problemas de qualidade distintos
@@ -956,11 +1100,15 @@ Ao marcar todos os 7: camada de parabéns + botão "Avançar para o encerramento
 NAVEGAÇÃO
 Restrita — botão de avanço aparece apenas com todos os sete checkboxes marcados.
 
+
 ────────────────────────────────
+
 SLIDE 37 — MODELO DE REGISTRO DE CONSULTORIA
 Tipo: Recurso de referência
 Duração estimada: 25s
+
 ────────────────────────────────
+
 VISUAL
 Modelo de registro em caixa de código monoespaçada com as seções: Data, Base de dados, Problema original, Etapas Realizadas (5 subseções), Prompts Mais Eficazes, Limitações Identificadas, Próximos Passos. Botão de cópia. Nota explicativa: "Mantenha este registro para cada análise — ele permite a replicação futura e a revisão crítica do fluxo."
 
@@ -981,11 +1129,15 @@ Livre — slide de referência.
 
 ---
 
+
 ────────────────────────────────
+
 SLIDE 38 — ENCERRAMENTO DO CURSO
 Tipo: Encerramento
 Duração estimada: 55s
+
 ────────────────────────────────
+
 VISUAL
 Fundo com identidade visual do Slide 01. Título: "Parabéns — você concluiu a Trilha Essentials." Ícone de conquista animado. Síntese em destaque tipográfico: "A IA não substitui o julgamento analítico do profissional — ela o amplifica. A competência de formular perguntas precisas é tão importante quanto a de interpretar respostas." Abaixo: três blocos de aprofundamento:
 1. Fórmulas matriciais modernas — FILTRO, CLASSIFICAR, ÚNICA
