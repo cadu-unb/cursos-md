@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/style.css">
 
 1. passar o `plano_de_aula_xxx.md` essentials/hands-on (selecionado) passa por um primeiro prompt [objetivo: traduzir plano de aula para o articulate]; Resultado: `ROTEIRO_xxx.md`.
 
