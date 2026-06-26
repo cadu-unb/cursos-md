@@ -1,6 +1,6 @@
-# Prefácio
+<link rel="stylesheet" href="../.css/style.css">
 
-*Inicio > Bem-vindo*
+# Prefácio
 
 Imagine que você contratou um roteirista e designer experiente. Você descreve a ideia, o público e os objetivos. Ele estrutura tudo: sequência lógica, hierarquia visual, notas para sua fala, até sugere cores e estilos. Você revisa, ajusta e aprova. O resultado? Uma apresentação que parece ter levado semanas, mas foi criada em horas.
 
@@ -22,7 +22,7 @@ Ao final de cada módulo, há uma **Pílula Hands-on** — um exercício prátic
 
 ## O Que Você Vai Precisar
 
-*Capítulo 0 > Primeiros Passos*
+*PowerPoint > Conta Microsoft > Verificar Compatibilidade*
 
 Antes de criar qualquer apresentação, precisamos garantir que você consiga acessar a ferramenta. Este módulo existe por uma razão simples: a maior barreira para usar novas tecnologias não é a dificuldade de uso — é a fricção de acesso. Vamos eliminá-la agora.
 
@@ -42,7 +42,7 @@ Para usar o Claude, você precisa de uma conta [Microsoft 365](#glos-microsoft36
 
 ## Guia Passo a Passo por Plataforma
 
-*Capítulo 0 > Primeiros Passos > Guia por Plataforma*
+*PowerPoint Web > Painel Lateral > Complemento Claude*
 
 Dependendo de como você acessa o PowerPoint, o caminho para encontrar o Claude é um pouco diferente. Veja os três cenários mais comuns.
 
@@ -73,7 +73,7 @@ Não se preocupe — isso é mais comum do que parece. Consulte a tabela de solu
 
 ## Primeiro Teste: Verifique se Está Funcionando
 
-*Capítulo 0 > Primeiros Passos > Verificação*
+*PowerPoint > Painel Claude > Caixa de Input*
 
 Antes de avançar, confirme que tudo está funcionando com este exercício rápido:
 
@@ -128,7 +128,7 @@ Se todos os itens estão marcados, você está **100% pronto**. Prossiga para o 
 
 ## A Ilusão Antiga e a Realidade Nova
 
-*Capítulo 1 > Entendendo o Claude*
+*Claude AI > Painel de Chat > Primeira Interação*
 
 Existe uma armadilha que pega quase todo mundo na primeira vez que usa uma IA generativa para criar slides. A pessoa abre o Claude, escreve "faça uma apresentação sobre X", cola o resultado no PowerPoint e entrega. O slide fica genérico, sem personalidade, e parece exatamente o que é: feito por IA sem curadoria humana.
 
@@ -140,7 +140,7 @@ A diferença de resultado entre essas duas abordagens é enorme. No primeiro cas
 
 ## Os 5 Superpoderes do Claude para Apresentações
 
-*Capítulo 1 > Entendendo o Claude > Capacidades*
+*Claude AI > Engenharia de Prompt > Casos de Uso*
 
 Saber onde o Claude agrega valor máximo é o primeiro passo para usá-lo bem. Pense nos cinco papéis que ele pode assumir na sua criação.
 
@@ -195,7 +195,7 @@ SAÍDA: Descrição detalhada para usar no Unsplash, Pexels ou DALL-E
 
 ## O Que Claude NÃO Faz
 
-*Capítulo 1 > Entendendo o Claude > Limitações*
+*Claude AI > Sobre o Claude > Limitações*
 
 É igualmente importante saber onde o Claude não vai te ajudar — e por que isso está completamente bem.
 
@@ -207,7 +207,7 @@ Reconhecer essas limitações não é uma crítica à ferramenta. É o que te to
 
 ## A Mentalidade de Colaboração
 
-*Capítulo 1 > Entendendo o Claude > Mentalidade*
+*Claude AI > Painel de Chat > Ciclo de Iteração*
 
 Pense no Claude como um ciclo contínuo de colaboração, não como uma máquina de fazer slides:
 
@@ -239,7 +239,7 @@ Observe a resposta com curiosidade. Claude vai sugerir uma sequência lógica co
 
 ## O Briefing: Sua Bússola
 
-*Capítulo 2 > Preparação*
+*Claude AI > Engenharia de Prompt > Contextualização*
 
 Um dos erros mais comuns ao usar Claude é começar a digitar sem saber exatamente o que se quer. O resultado? Uma resposta genérica que você vai precisar reformular várias vezes. A solução é simples: antes de qualquer [prompt](#glos-prompt), responda estas sete perguntas fundamentais.
 
@@ -261,7 +261,7 @@ Esse documento — seu [briefing](#glos-briefing) — é o ponto de partida de t
 
 ## Estruturação de Conteúdo: A Pirâmide de Informação
 
-*Capítulo 2 > Preparação > Estrutura de Conteúdo*
+*Claude AI > Engenharia de Prompt > Estrutura de Conteúdo*
 
 O Claude respeita hierarquia. Quando você organiza seu conteúdo em camadas antes de pedir, a resposta reflete essa organização. Um exemplo de como estruturar o tema "Alimentação Saudável":
 
@@ -287,7 +287,7 @@ Quando você passa essa estrutura para o Claude, ele a usa como esqueleto da apr
 
 ## Persona do Aluno: Conheça Seu Público
 
-*Capítulo 2 > Preparação > Persona*
+*Claude AI > Engenharia de Prompt > Definição de Público*
 
 A descrição do seu público é onde a maioria das pessoas é vaga demais. Compare:
 
@@ -333,7 +333,7 @@ Preencha o template abaixo para a sua próxima aula. Você vai usá-lo no Capít
 
 ## Anatomia de um Prompt Excelente
 
-*Capítulo 3 > Prompt Engineering*
+*Claude AI > Engenharia de Prompt > Estrutura de Prompt*
 
 Um [prompt](#glos-prompt) é muito mais do que uma pergunta. É uma instrução de trabalho. E como toda instrução, a clareza faz toda a diferença entre um entregável mediano e um resultado excelente.
 
@@ -406,7 +406,7 @@ Evite gráficos muito complexos."
 
 ## Template Universal para Prompts de Apresentação
 
-*Capítulo 3 > Prompt Engineering > Template*
+*Claude AI > Engenharia de Prompt > Templates*
 
 Use este template como base para qualquer prompt de apresentação que você criar:
 
@@ -436,7 +436,7 @@ Estruture o resultado assim:
 
 ## Prompt Interativo e Iterativo: A Técnica dos Turnos
 
-*Capítulo 3 > Prompt Engineering > Iteração*
+*Claude AI > Painel de Chat > Conversa Multi-turno*
 
 Claude não lê mentes. Raramente um único prompt gera o resultado perfeito — e tudo bem, porque a força da [IA Generativa](#glos-ia-generativa) está exatamente na iteração rápida. Um bom fluxo de trabalho tem múltiplos turnos:
 
@@ -470,7 +470,7 @@ Use tom conversacional. Inclua pausas para perguntas.
 
 ## Técnicas Avançadas de Prompt
 
-*Capítulo 3 > Prompt Engineering > Técnicas Avançadas*
+*Claude AI > Engenharia de Prompt > Técnicas Avançadas*
 
 Três técnicas de [prompt engineering](#glos-prompt-engineering) vão elevar a qualidade das suas respostas significativamente.
 
@@ -518,7 +518,7 @@ Pegue o briefing que você preencheu no Capítulo 2, converta-o para o template 
 
 ## As Estruturas de Narrativa Mais Eficazes para Educação
 
-*Capítulo 4 > Narrativa*
+*Claude AI > Engenharia de Prompt > Narrativa e Estrutura*
 
 Toda apresentação memorável tem uma espinha dorsal narrativa. Slides sem essa estrutura são apenas uma lista de informações. Slides com ela são uma jornada que o aluno percorre junto com você.
 
@@ -566,7 +566,7 @@ Slide 5: "Agora quando olhar para o céu..." (Aplicação pessoal)
 
 ## A Throughline: O Fio Condutor da Apresentação
 
-*Capítulo 4 > Narrativa > Throughline*
+*Claude AI > Engenharia de Prompt > Coesão Narrativa*
 
 Uma boa apresentação tem **UMA ideia central**. Todos os slides servem para reforçá-la. Quando um slide não contribui para esse fio condutor, ele está sobrando — ou desviando atenção.
 
@@ -582,7 +582,7 @@ Tema central: *"Como as plantas transformam luz em comida"*. Cada slide é um pa
 
 ## Abertura Memorável e Fechamento Impactante
 
-*Capítulo 4 > Narrativa > Abertura e Fechamento*
+*Claude AI > Engenharia de Prompt > Abertura e Fechamento de Apresentação*
 
 A abertura decide se os alunos prestam atenção. O fechamento decide se vão lembrar do que aprenderam. Não subestime nenhum dos dois.
 
@@ -642,7 +642,7 @@ Escolha um tema que está ensinando. Escreva 3 aberturas diferentes usando os ti
 
 ## Por Que Notas de Orador São Críticas
 
-*Capítulo 5 > Notas do Orador*
+*PowerPoint > Exibição > Notas*
 
 Existe um fenômeno que todo professor conhece: você estava seguro do conteúdo, preparou os slides, chegou na frente da turma — e quando olhou para o terceiro bullet, a mente foi em branco. É a síndrome do "ah, era pra falar o quê mesmo?".
 
@@ -652,7 +652,7 @@ As [notas do orador](#glos-notas-orador) são a solução. Não são um script p
 
 ## Estrutura de Notas do Orador Eficaz
 
-*Capítulo 5 > Notas do Orador > Estrutura*
+*PowerPoint > Painel de Notas > Campo de Texto*
 
 Uma boa nota de orador para cada slide segue este padrão:
 
@@ -678,7 +678,7 @@ Uma boa nota de orador para cada slide segue este padrão:
 
 ## Técnica: Expandir Bullets em Narrativa
 
-*Capítulo 5 > Notas do Orador > Transformação de Bullets*
+*Claude AI > Engenharia de Prompt > Expansão de Conteúdo*
 
 Veja na prática como um bullet crú se transforma numa nota de orador completa:
 
@@ -722,7 +722,7 @@ Agora a pergunta é: como a planta FAZ essa fórmula? Que passos ela segue?
 
 ## Prompt para Claude Gerar Notas do Orador
 
-*Capítulo 5 > Notas do Orador > Prompt*
+*Claude AI > Engenharia de Prompt > Roteiro de Fala*
 
 ```md
 # Contexto
@@ -751,7 +751,7 @@ Para cada slide:
 
 ## Timing e Ritmo
 
-*Capítulo 5 > Notas do Orador > Timing*
+*PowerPoint > Apresentação de Slides > Ensaiar Intervalos*
 
 📸 **Sugestão de Print:** Timeline visual de uma apresentação de 20 minutos com alocação de tempo por slide
 
@@ -784,7 +784,7 @@ Pegue um bullet point de uma apresentação que você já usa e expanda em nota 
 
 ## O Que é VBA e Por Que Importa
 
-*Capítulo 6 > Automação VBA*
+*PowerPoint > Desenvolvedor > Visual Basic*
 
 [VBA](#glos-vba) (Visual Basic for Applications) é a linguagem de automação do Microsoft Office. Ele permite que você instrua o PowerPoint a realizar tarefas repetitivas de forma automática — sem precisar ser programador.
 
@@ -802,7 +802,7 @@ Você quer que todos os slides sigam uma estrutura consistente (título + 3 bull
 
 ## Exemplo de VBA Simples: Criar um Slide com Texto
 
-*Capítulo 6 > Automação VBA > Exemplo Prático*
+*PowerPoint > Desenvolvedor > Visual Basic > Editor VBA*
 
 Veja como solicitar código VBA ao Claude:
 
@@ -860,7 +860,7 @@ End Sub
 
 ## Como Usar Código VBA no PowerPoint
 
-*Capítulo 6 > Automação VBA > Como Usar*
+*PowerPoint > Desenvolvedor > Macros > Executar*
 
 O processo é simples mesmo para quem nunca abriu um editor de código:
 
@@ -882,7 +882,7 @@ O processo é simples mesmo para quem nunca abriu um editor de código:
 
 ## Prompts Avançados para Automatização
 
-*Capítulo 6 > Automação VBA > Prompts Avançados*
+*Claude AI > Engenharia de Prompt > Geração de Código VBA*
 
 ### Prompt: Aplicar Formatação Uniforme
 
@@ -933,7 +933,7 @@ Descreva para Claude o modelo de slide que você usa no seu dia a dia e peça a 
 
 ## Claude Como Diretor de Arte
 
-*Capítulo 7 > Design Visual*
+*Claude AI > Engenharia de Prompt > Direção Visual*
 
 Neste capítulo, o Claude assume um papel diferente. Ele não vai criar imagens — para isso existem DALL-E, Midjourney e Canva. Mas ele vai **dirigir visualmente** a sua apresentação: sugerir layouts, propor paletas de cores, e descrever com precisão as imagens que você precisa buscar.
 
@@ -943,7 +943,7 @@ Pense nisso como ter um consultor de design ao seu lado, disponível 24 horas po
 
 ## Técnica 1: Sugestão de Layout
 
-*Capítulo 7 > Design Visual > Layout*
+*PowerPoint > Design > Temas > Layout de Slide*
 
 Quando você sabe o que quer mostrar, mas não sabe como organizar visualmente, use este prompt:
 
@@ -968,7 +968,7 @@ Para cada layout, indique:
 
 ## Técnica 2: Paletas de Cores Comunicativas
 
-*Capítulo 7 > Design Visual > Cores*
+*PowerPoint > Design > Variantes > Cores*
 
 Cores não são acaso — elas comunicam emoções antes mesmo que o aluno leia uma palavra. Para escolher uma [paleta de cores](#glos-paleta-cores) adequada, use este prompt:
 
@@ -994,7 +994,7 @@ Claude pode sugerir, por exemplo, uma paleta de "Esperança e Crescimento" com v
 
 ## Técnica 3: Descrição de Imagens para Banco de Dados
 
-*Capítulo 7 > Design Visual > Imagens*
+*Claude AI > Engenharia de Prompt > Geração de Brief Visual*
 
 A busca por imagens genéricas no Google resulta em imagens genéricas. Com o Claude, você descreve a imagem ideal com precisão suficiente para encontrá-la exatamente nos bancos de dados gratuitos como Unsplash, Pexels e Pixabay.
 
@@ -1041,7 +1041,7 @@ Escolha um tema que está lecionando e peça para Claude sugerir apenas a paleta
 
 ## Onde Claude Processa Seus Dados
 
-*Capítulo 8 > Segurança e Ética*
+*Claude AI > Configurações > Privacidade e Dados*
 
 Este é o capítulo mais importante do livro — e o mais ignorado por usuários iniciantes.
 
@@ -1053,7 +1053,7 @@ Isso não é necessariamente um problema — mas significa que você precisa ser
 
 ## O Que NUNCA Compartilhar com Claude
 
-*Capítulo 8 > Segurança e Ética > Dados Sensíveis*
+*Claude AI > Painel de Chat > Boas Práticas de Privacidade*
 
 ```md
 ❌ NUNCA:
@@ -1079,7 +1079,7 @@ A regra de ouro é simples: **se a informação identifica uma pessoa real, não
 
 ## Validação de Informações: O Risco da Alucinação
 
-*Capítulo 8 > Segurança e Ética > Alucinação de IA*
+*Claude AI > Painel de Chat > Verificação de Respostas*
 
 Claude é uma IA generativa. Às vezes ele [alucina](#glos-alucinacao) — ou seja, gera informações que parecem corretas mas são inventadas. Isso não é uma falha de caráter; é uma característica técnica de como modelos de linguagem funcionam.
 
@@ -1101,7 +1101,7 @@ Se não tem certeza, diga explicitamente "não tenho certeza".
 
 ## Transparência com Alunos: Devo Contar que Usei IA?
 
-*Capítulo 8 > Segurança e Ética > Transparência*
+*Claude AI > Sobre o Claude > Uso Responsável e Ética*
 
 A tendência do campo educacional é cada vez mais clara: **sim, contar**.
 
@@ -1119,7 +1119,7 @@ Alguns exemplos de como comunicar:
 
 ## Checklist de Segurança
 
-*Capítulo 8 > Segurança e Ética > Checklist*
+*Claude AI > Painel de Chat > Revisão Pré-Publicação*
 
 Antes de usar qualquer apresentação criada com Claude em aula, percorra esta lista:
 
@@ -1145,7 +1145,7 @@ Abra uma apresentação que você já criou com Claude. Escolha 3 fatos aleatór
 
 # Capítulo Bônus — Biblioteca de Prompts Prontos para Professores
 
-*Capítulo Bônus > Biblioteca de Prompts*
+*Claude AI > Engenharia de Prompt > Biblioteca de Templates*
 
 Este capítulo é seu guia de referência rápida. Todos os prompts abaixo foram desenvolvidos ao longo deste livro e podem ser copiados, colados e adaptados para qualquer disciplina ou série.
 
@@ -1422,88 +1422,89 @@ Claude é seu parceiro de execução — ele ajuda a traduzir suas ideias em sli
 
 # Glossário
 
-## Claude {#glos-claude}
+### Claude {#glos-claude}
 
 Assistente de inteligência artificial desenvolvido pela Anthropic. No contexto deste livro, Claude está integrado ao Microsoft PowerPoint como um complemento que ajuda professores e profissionais a criar, estruturar e refinar apresentações de slides por meio de linguagem natural.
 
 ---
 
-## PowerPoint {#glos-powerpoint}
+### PowerPoint {#glos-powerpoint}
 
 Software de criação de apresentações de slides desenvolvido pela Microsoft, parte do pacote Microsoft 365 (antigo Office). É amplamente usado em contextos educativos e corporativos para comunicação visual.
 
 ---
 
-## IA Generativa {#glos-ia-generativa}
+### IA Generativa {#glos-ia-generativa}
 
 Categoria de inteligência artificial capaz de gerar conteúdo original — texto, imagens, código, áudio — a partir de instruções em linguagem natural. Diferente de IAs que apenas classificam ou preveem, a IA generativa produz novos artefatos com base em padrões aprendidos durante o treinamento.
 
 ---
 
-## Prompt {#glos-prompt}
+### Prompt {#glos-prompt}
 
 Instrução ou solicitação enviada a um modelo de IA para gerar uma resposta. No contexto de criação de apresentações, um prompt bem elaborado especifica contexto, tarefa, formato desejado e restrições, resultando em saídas mais precisas e úteis.
 
 ---
 
-## Prompt Engineering {#glos-prompt-engineering}
+### Prompt Engineering {#glos-prompt-engineering}
 
 A prática de formular prompts de forma estratégica para obter melhores resultados de modelos de IA. Inclui técnicas como Chain-of-Thought (pedir raciocínio passo a passo), Few-Shot (fornecer exemplos), e Role-Playing (atribuir um papel ao modelo).
 
 ---
 
-## Briefing {#glos-briefing}
+### Briefing {#glos-briefing}
 
 Documento sintético que reúne as informações essenciais de um projeto antes do início da execução. No contexto deste livro, o briefing responde às sete perguntas fundamentais sobre objetivo, público, contexto, duração, formato, atividade e restrições — e serve como base para os prompts enviados ao Claude.
 
 ---
 
-## Microsoft 365 {#glos-microsoft365}
+### Microsoft 365 {#glos-microsoft365}
 
 Serviço de assinatura da Microsoft que inclui aplicativos como Word, Excel, PowerPoint, Outlook e Teams, com acesso via nuvem. A integração do Claude com o PowerPoint requer uma assinatura ativa do Microsoft 365.
 
 ---
 
-## VBA {#glos-vba}
+### VBA {#glos-vba}
 
 Visual Basic for Applications. Linguagem de programação integrada aos aplicativos do Microsoft Office que permite automatizar tarefas repetitivas. Com a ajuda do Claude, professores podem gerar código VBA em linguagem natural e usá-lo para criar, formatar ou duplicar slides em lote sem necessidade de conhecimento técnico prévio.
 
 ---
 
-## Macro {#glos-macro}
+### Macro {#glos-macro}
 
 Sequência de comandos programados (geralmente em VBA) que executa uma série de ações automaticamente no Microsoft Office. Neste livro, macros são usadas para criar estruturas de slides, aplicar formatação uniforme e processar dados de planilhas automaticamente.
 
 ---
 
-## Notas do Orador {#glos-notas-orador}
+### Notas do Orador {#glos-notas-orador}
 
 Campo de texto associado a cada slide no PowerPoint onde o apresentador pode registrar roteiro de fala, lembretes ou contexto adicional. Não são visíveis ao público durante a apresentação. Neste livro, são tratadas como narrativas conversacionais expandidas — não bullets adicionais — que o professor pode consultar discretamente durante a aula.
 
 ---
 
-## Throughline {#glos-throughline}
+### Throughline {#glos-throughline}
 
 Conceito de narrativa que se refere ao fio condutor central de uma apresentação — a ideia unificadora que conecta todos os slides e dá coerência à história. Uma apresentação com throughline forte tem cada slide contribuindo para a mesma ideia central; sem ela, os slides parecem tópicos desconexos.
 
 ---
 
-## Alucinação {#glos-alucinacao}
+### Alucinação {#glos-alucinacao}
 
 Fenômeno em modelos de IA generativa onde o sistema gera informações plausíveis mas factualmente incorretas ou inventadas, com aparente confiança. É uma característica técnica dos modelos de linguagem, não um defeito isolado. A defesa mais eficaz é a validação humana de dados críticos antes do uso.
 
 ---
 
-## DALL-E {#glos-dalle}
+### DALL-E {#glos-dalle}
 
 Modelo de IA generativa desenvolvido pela OpenAI capaz de criar imagens a partir de descrições textuais. Mencionado neste livro como alternativa para geração visual, já que Claude não cria imagens diretamente — apenas descreve com precisão o que você precisa buscar ou gerar em ferramentas especializadas.
 
 ---
 
-## Paleta de Cores {#glos-paleta-cores}
+### Paleta de Cores {#glos-paleta-cores}
 
 Conjunto de cores selecionadas de forma coordenada para uso em um projeto visual. Uma paleta bem escolhida transmite emoções consistentes, garante acessibilidade (especialmente para pessoas com daltonismo) e mantém coerência visual ao longo de toda a apresentação.
 
 ---
 
 *Este e-book foi transformado a partir do Plano de Aula original "Claude: Co-Piloto Criativo", com foco em didática progressiva, acessibilidade pedagógica e produção de conteúdo educacional responsável.*
+

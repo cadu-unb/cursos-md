@@ -1,6 +1,6 @@
 # Relatório de Roteiro de Curso Reformulado
 
-## **Use Claude para PowerPoint**
+## **Claude: Co-Piloto Criativo**
 ### *Transforme Ideias em Apresentações Persuasivas, Didáticas e Visuais de Alto Impacto*
 
 ---

@@ -1504,5 +1504,5 @@ Conjunto de cores selecionadas de forma coordenada para uso em um projeto visual
 
 ---
 
-*Este e-book foi transformado a partir do Plano de Aula original "Use Claude para PowerPoint", com foco em didática progressiva, acessibilidade pedagógica e produção de conteúdo educacional responsável.*
+*Este e-book foi transformado a partir do Plano de Aula original "Claude: Co-Piloto Criativo", com foco em didática progressiva, acessibilidade pedagógica e produção de conteúdo educacional responsável.*
 

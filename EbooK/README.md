@@ -72,7 +72,7 @@ rights: "© 2026 Todos os direitos reservados"
 Juntando toda a sequência lógica explicada acima, o seu comando definitivo para o terminal fica assim:
 
 ```powershell
-pandoc meu_livro.md -o curso_claude.epub --epub-chapter-level=1 --toc --epub-cover-image=capa.jpg --css=estilo.css --metadata metadata.yaml
+pandoc ebook_claude_ppt.md -o curso_claude.epub --split-level=1 --toc --epub-cover-image=capa.png --css=style.css --metadata metadata.yaml
 
 ```
 
