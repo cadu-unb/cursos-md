@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Roteiro Essentials — Claude para PowerPoint
 ## Storyboard para Ferramenta de Autoria (Articulate 360)

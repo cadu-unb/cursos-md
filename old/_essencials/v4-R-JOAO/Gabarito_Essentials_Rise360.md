@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # GABARITO DE ESTRUTURA — Curso Essentials — Articulate Rise 360
 > Versão 1.0 — uso interno TEC-Conteúdo

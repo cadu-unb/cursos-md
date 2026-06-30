@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # (Plano de Aula) Claude para Excel: Consultoria Analítica, Fórmulas Complexas e Automação — Curso Essentials
 

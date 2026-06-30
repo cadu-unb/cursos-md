@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # (Plano de Aula) Plataformas e Integrações: Use o Claude Code no VS Code — Curso Essentials
 

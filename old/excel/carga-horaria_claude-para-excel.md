@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../.css/style.css">
 
 # ANÁLISE DE CARGA HORÁRIA
 ## Curso: "Use Claude para Excel – Consultoria Analítica, Fórmulas Complexas e Automação"

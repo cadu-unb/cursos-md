@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Roteiro de Produção — Articulate 360
 ## Curso: Claude no PowerPoint — Trilha Essentials

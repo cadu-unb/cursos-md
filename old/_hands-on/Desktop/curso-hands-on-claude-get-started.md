@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Claude: Comece a usar o aplicativo para desktop — Curso Hands-on
 

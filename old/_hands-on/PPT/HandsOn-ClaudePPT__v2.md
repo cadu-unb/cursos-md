@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # "Claude no PowerPoint" Para Leigos — Curso Hands-on
 

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Roteiro Rise 360 — Claude no PowerPoint — Curso Hands-on
 

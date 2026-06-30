@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../.css/style.css">
 
 # ROTEIRO DE CURSO REFORMULADO
 ## "Comece com Claude Cowork: Trabalho em Conjunto com IA"

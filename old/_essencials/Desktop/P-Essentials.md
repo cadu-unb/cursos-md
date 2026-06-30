@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Prompt-Modelo — Geração de Plano de Aula (Trilha Essentials)
 

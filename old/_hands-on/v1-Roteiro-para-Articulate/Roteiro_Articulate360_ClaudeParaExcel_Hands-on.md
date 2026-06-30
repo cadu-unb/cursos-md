@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../.css/style.css">
 
 # Roteiro Articulate 360 — Claude para Excel — Curso Hands-on
 
